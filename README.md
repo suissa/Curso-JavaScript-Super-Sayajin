@@ -12,12 +12,16 @@ pois EU acredito que a Matemática Discreta é OBRIGATÓRIA para todo o programa
 - estrutura de dados
 - inglês
 
+
 > **Para você conseguir programar QUALQUER COISA, você no mínimo, precisa saber os itens acima.**
+
 
 > **Sabe o por quê?**
 
 > Simplesmente porque é com essa Matemática que você aprende os conceitos de função e conjuntos, que <br>
 para mim é muitíssimo importante, pois antecede a própria Estrutura de Dados.
+
+
 
 Além disso veja a definição de uma função:
 
@@ -25,7 +29,9 @@ Além disso veja a definição de uma função:
 
 *fonte: [https://pt.wikipedia.org/wiki/Fun%C3%A7%C3%A3o_(matem%C3%A1tica)](https://pt.wikipedia.org/wiki/Fun%C3%A7%C3%A3o_(matem%C3%A1tica))*
 
+
 Trocando em míudos:
+
 
 > Uma função é a ação de transformação entre conjuntos, onde você SEMPRE<br> 
 terá dois conjuntos: de entrada e de saída. Ou seja, qualquer tipo de transformação<br>
@@ -55,9 +61,10 @@ função você deverá obrigatóriamente ter criado as anteriores.
 
 #### Pré-requisitos
 
-- cérebro
-- ensino médio
-- brio
+- Usar o cérebro
+- Ensino Médio
+- Ter [brio](https://www.youtube.com/watch?v=dpn1JL15AXA)
+- Ter Internet
 
 
 ## Meta
@@ -70,9 +77,13 @@ E o valor desse será de R$35.
 
 > **Tá suave né???**
 
+## Início
+
+**Iniciaremos após atingirmos a meta, espero que seja no início de Agosto!**
 
 
 ## Inscrição
+
 Para se inscrever basta abrir uma issue nesse repositório com seus seguintes dados:
 
 Email
@@ -140,6 +151,18 @@ de conjuntos, como: adição, subtração e intersecção.
 #### Pré-requisitos
 
 - Ensino Médio (cursando ou completo)
+- Não ter medo da Matemática pq ela é uma LINDA!
+
+#### Artigo
+
+Sim além dos exercícios que serão passados em cada aula ainda teremos **pelo menos** <br>
+um artigo sobre algum dos temas abordados.
+
+
+#### Projeto Final
+
+Criação de uma calculadora com o máximo possível de funções matemáticas e físicas, cada aluno<br> 
+deverá criar pelo menos 2 funções novas.
 
 
 <hr>
@@ -189,6 +212,8 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 
 - Conclusão do Módulo 1
 
+#### Módulo 3 - Biologia e Arquitetura de API
+
 <hr>
 
 ### Super Sayajin II
@@ -212,6 +237,8 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 ![](http://pre13.deviantart.net/a8e4/th/pre/i/2016/361/f/7/son_goku_super_saiyan_3__2_by_nekoar-dat2zkq.png)
 
 - Arquitetura Backend (Redux)
+- Atomic Fucking Design
+- Programação Reativa
 
 
 <hr>
@@ -219,6 +246,7 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 ### Super Sayajin IV
 
 - Teoria das Categorias
+- Conceitos 
 
 <hr>
 
