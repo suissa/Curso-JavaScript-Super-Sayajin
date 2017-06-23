@@ -1,6 +1,6 @@
 # Curso-JavaScript-Super-Sayajin
 
-> Curso COMPLETO de JavaScript do básico ao avançado, trilhando pelo caminho Funcional.
+> Curso COMPLETO de JavaScript do básico ao avançado trilhando pelo caminho Funcional.
 
 ![](http://i.imgur.com/sqemrMI.jpg)
 
@@ -12,12 +12,12 @@ pois EU acredito que a Matemática Discreta é OBRIGATÓRIA para todo o programa
 - estrutura de dados
 - inglês
 
-> **Para você conseguir programar QUALQUER COISA você, no mínimo, precisa saber os items acima.**
+> **Para você conseguir programar QUALQUER COISA, você no mínimo, precisa saber os itens acima.**
 
 > **Sabe o por quê?**
 
-> Simplesmente porque é nessa Matemática que você aprende os conceitos de função e conjuntos, que <br>
-para mim são muitíssimo importante, antecedendo a própria Estrutura de Dados.
+> Simplesmente porque é com essa Matemática que você aprende os conceitos de função e conjuntos, que <br>
+para mim é muitíssimo importante, pois antecede a própria Estrutura de Dados.
 
 Além disso veja a definição de uma função:
 
@@ -33,23 +33,23 @@ que você faça será uma função que SEMPRE retornará algo.
 
 
 *ps1: se não retorna algo não é função*
-*ps2: em uma função de `get` você pode/deve retornar o próprio objeto<br>
+*ps2: em uma função de `get` você pode retornar o próprio objeto<br>
 *que contém a propriedade *setada*, para que você possa encadear suas funções,* <br>
 *por exemplo.*
 
 ## Módulos
-
-Antes de falar da ementa de cada um eu quero que você entenda que TODO o conteúdo<br> 
-matemático será voltado para casos reais e que eu TE GARANTO que voc usará na sua vida, <br>
-porém antes você precisa entender como cada operação matemática funciona por trás dos panos, <br>
-depois disso você sempre re-usará as funçes previamente criadas, ou sejam para criar a próxima<br>
-função você deverá obrigatóriamente ter feito as passadas.
 
 - Super Sayajin I
 - Super Sayajin II
 - Super Sayajin III
 - Super Sayajin IV
 - Super Sayajin V
+
+Antes de falar da ementa de cada um eu quero que você entenda que TODO o conteúdo<br> 
+matemático será voltado para casos reais e eu LHE GARANTO que você usará na sua vida, <br>
+porém antes você precisa entender como cada operação matemática funciona por trás dos panos, <br>
+depois disso você sempre re-usará as funções previamente criadas, ou seja, para criar a próxima<br>
+função você deverá obrigatóriamente ter criado as anteriores.
 
 
 ### Super Sayajin I - Funções e Lógica
