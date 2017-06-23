@@ -208,7 +208,13 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 - `Math`;
 - `Symbol`.
 
-#### Pré-requisitos
+##### Projeto Final
+
+
+[Uma Tabela Periódica diferente utilizando-se UX e API](https://github.com/Webschool-io/Elementos-Quimica).
+
+
+##### Pré-requisitos
 
 - Conclusão do Módulo 1
 
@@ -251,6 +257,8 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 <hr>
 
 ### Super Sayajin V
+
+- 
 
 
 ![](http://i.imgur.com/sqemrMI.jpg)
