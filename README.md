@@ -1,5 +1,8 @@
 # Curso-JavaScript-Super-Sayajin
-Curso COMPLETO de JavaScript do básico ao avançado, trilhando o caminho Funcional.
+
+> Curso COMPLETO de JavaScript do básico ao avançado, trilhando pelo caminho Funcional.
+
+![](http://i.imgur.com/sqemrMI.jpg)
 
 Esse curso, por mais que você odeie, irá iniciar pela Matemática mais básica possível,<br>
 pois EU acredito que a Matemática Discreta é OBRIGATÓRIA para todo o programador, assim como é:<br>
