@@ -51,82 +51,89 @@ porém antes você precisa entender como cada operação matemática funciona po
 depois disso você sempre re-usará as funções previamente criadas, ou seja, para criar a próxima<br>
 função você deverá obrigatóriamente ter criado as anteriores.
 
-
-### Super Sayajin I 
-
-#### Módulo - Funções e Lógica
-
-Nesse módulo ensinarei como você irá traduzir seu conhecimento prévio, <br>
-principalmente em Matemática do Ensino Médio, em JavaScript Funcional.
-
-Se você não sabe como compor operações matemáticas complexas usando apenas soma e números negativos, 
-se você não tem lógica matemática forte,
-se você não sabia a definição de função e/ou conjunto, esse módulo É OBRIGATÓRIO para você
-
 #### Pré-requisitos
 
 - cérebro
 - ensino médio
 - brio
 
+
+### Super Sayajin I 
+
+#### Módulo 1 - Funções e Lógica
+
+Nesse módulo ensinarei como você irá traduzir seu conhecimento prévio, <br>
+principalmente em Matemática do Ensino Médio, em JavaScript Funcional.
+
+Esse módulo É **OBRIGATÓRIO** para quem:
+
+- Não saiba a definição de função e/ou conjunto;
+- Não sabe como compor operações matemáticas complexas usando apenas soma e números negativos;
+- Não tem lógica matemática forte
+
+
 #### Tópicos
 
 ##### Matemática Discreta
 
 Vamos aprender como criar TODAS as operações mais utilizadas na Matemática<br> 
-e como trabalhar com o tipo Number, para isso inciaremos direto na função, <br>
+e como trabalhar com o tipo `Number`, para isso inciaremos direto na função, <br>
 para que o aluno entenda que esse é o conceito mais importante que ele precisa.
 
 As primeiras funções irão utilizar os números passados por parâmetro para que ele<br>
-não precise iniciar nenhuma constante que não seja a função, depois disso que você<br>
-aprenderá a trabalhar com o tipo Number, encapsulando e usando suas principais funções.
+não precise iniciar nenhuma constante que não seja a função, só depois disso que você<br>
+aprenderá a trabalhar com o tipo `Number`, encapsulando e usando suas principais funções.
 
-Depois iremos aprender a parte de coleções de números, conjuntos, onde emularemos<br>
-o conceito de conjutos com Array e Set, pois o Set não possui NENHUMA das operações<br>
+Depois iremos aprender a parte de coleções de números e conjuntos, onde emularemos<br>
+o conceito de conjutos com `Array` e `Set`, pois o `Set` não possui NENHUMA das operações<br>
 de conjuntos, como: adição, subtração e intersecção.
 
 ###### Conceitos
 
-- const
+- Constante
 - Função
 - Números
 - Operações matemáticas: soma, subtração, multiplicação, divisão, exponenciação e radiciação
   - todas baseadas apenas na soma
 - Boolean
 - Lógica: matemática e booleana
-- while/for
+- `while`/`for`
 - Conjuntos
-- Operaçes em Conjuntos
+- Operaçes com Conjuntos
 - Física: como inferir fórmulas baseando-se em conceitos
 
 ###### JavaScript
 
-- Function
-- Number
-- Array
-- Set
+- `Function`
+- `Number`
+- `Array`
+- `Set`
+
+#### Pré-requisitos
+
+- ensino médio (cursando ou completo)
 
 
 ### Super Sayajin I 
 
-#### Módulo - Estatística & Estrutura de Dados
+#### Módulo 2 - Estatística & Estrutura de Dados
 
 Nesse módulo mostrarei como criar funções de Estatística baseando-se apenas
-na sua explicação e porque a estatística é a base para você usar Redes Neurais
-e muito provavelmente o futuro da programação seja mais probabilística do que determinística.
+na sua explicação e porque a estatística é a base para se usar as Redes Neurais
+e muito provavelmente no futuro a programação seja mais probabilística do que determinística.
 
 Com isso você aprenderá a organizar seus dados e retirar informações em cima de um conjunto<br>
 de dados numéricos.
 
 ###### Objetivo
 
-Construir uma calculadora, via API, com a maiorias das funções de Estatística utilizadas<br>
-pela Inteligência Artificial para que não precisemos depender do Python ou R para isso.
+Construir uma calculadora, via API, com a maiorias das funções de Matemática Estatística utilizadas<br>
+pela Inteligência Artificial para que não precisemos depender do *Python* ou *R* para isso.
 
 ###### Conceitos
 
-- let
-- map/filter/reduce/concat/etc
+- `let`
+- `map`/`filter`/`reduce`/`concat`/etc
 - Métodos de Matriz
 - Média
 - Moda
@@ -139,13 +146,20 @@ pela Inteligência Artificial para que não precisemos depender do Python ou R p
 
 - Estruturação dos dados dos átomos
 - Estruturação dos dados das moléculas
-- Reações
+- Reações Químicas Inorgânicas
+- Distribuição Eletrônica
+- Balanceamento de Reações 
+- Cálculo de Lei de Hess 
 
 ###### JavaScript
 
-- Object
-- Math
-- Symbol
+- `Object`
+- `Math`
+- `Symbol`
+
+#### Pré-requisitos
+
+- Conclusão do Módulo 1
 
 ### Super Sayajin III
 
