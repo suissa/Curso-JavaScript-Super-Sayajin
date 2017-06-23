@@ -116,6 +116,7 @@ de dados numéricos
 
 ###### Conceitos
 
+- Métodos de Matriz
 - Média
 - Moda
 - Desvio Padrão
