@@ -36,6 +36,12 @@ que você faça será uma função que SEMPRE retornará algo.
 
 ## Módulos
 
+Antes de falar da ementa de cada um eu quero que você entenda que TODO o conteúdo<br> 
+matemático será voltado para casos reais e que eu TE GARANTO que voc usará na sua vida, <br>
+porém antes você precisa entender como cada operação matemática funciona por trás dos panos, <br>
+depois disso você sempre re-usará as funçes previamente criadas, ou sejam para criar a próxima<br>
+função você deverá obrigatóriamente ter feito as passadas.
+
 - Super Sayajin I
 - Super Sayajin II
 - Super Sayajin III
@@ -47,6 +53,10 @@ que você faça será uma função que SEMPRE retornará algo.
 
 Nesse módulo ensinarei como você irá traduzir seu conhecimento prévio, <br>
 principalmente em Matemática do Ensino Médio, em JavaScript Funcional.
+
+Se você não sabe como compor operações matemáticas complexas usando apenas soma e números negativos, 
+se você não tem lógica matemática forte,
+se você não sabia a definição de função e/ou conjunto, esse módulo É OBRIGATÓRIO para você
 
 #### Pré-requisitos
 
