@@ -260,13 +260,14 @@ no navegador como no Node.js
 Vários conceitos teóricos da Programação Funcional serão explicados e implementados, como:
 
 - Immutable data
-- Pipe
-- Compose
-- Curry
+- Pipe/Compose
+- Currying
 - Partial application
 - Trampoline
-- Monads
+- Y-Combinator
+- TCO
 - [FantasyLand](https://github.com/fantasyland/fantasy-land)
+
 
 ##### Pré-requisitos
 
