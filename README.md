@@ -26,3 +26,12 @@ principalmente em Matemática do Ensino Medio, em JavaScript Funcional
 ### Super Sayajin IV
 
 ### Super Sayajin V
+
+<br>
+
+## Inscrição
+Para se inscrever basta abrir uma issue nesse repositório com seus seguintes dados:
+
+* Email
+* Facebook/Twitter
+* Telegram
