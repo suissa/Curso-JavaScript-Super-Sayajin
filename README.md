@@ -58,6 +58,25 @@ função você deverá obrigatóriamente ter criado as anteriores.
 - brio
 
 
+## Meta
+
+Meus cursos SEMPRE terão a mesma meta: 100 alunos.
+
+E o valor desse será de R$35.
+
+
+
+> **Tá suave né???**
+
+
+
+## Inscrição
+Para se inscrever basta abrir uma issue nesse repositório com seus seguintes dados:
+
+Email
+Facebook/Twitter
+Telegram
+
 <hr>
 
 ### Super Sayajin I 
