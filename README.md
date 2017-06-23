@@ -1,8 +1,8 @@
 # Curso-JavaScript-Super-Sayajin
 
-> Curso COMPLETO de JavaScript do básico ao avançado trilhando pelo caminho Funcional.
+> Curso COMPLETO de JavaScript do básico ao avançado trilhando pelo caminho Funcional utilizando ES6.
 
-![](http://i.imgur.com/sqemrMI.jpg)
+![](http://img06.deviantart.net/2674/i/2015/214/7/5/vegeta_super_saiyan_god_super_saiyan_3_by_dgkilla95-d93xztn.jpg)
 
 Esse curso, por mais que você odeie, irá iniciar pela Matemática mais básica possível,<br>
 pois EU acredito que a Matemática Discreta é OBRIGATÓRIA para todo o programador, assim como é:<br>
@@ -59,7 +59,10 @@ função você deverá obrigatóriamente ter criado as anteriores.
 
 
 <hr>
+
 ### Super Sayajin I 
+
+![](http://cydeweys.com/archive/archive1/benyin/SuperGoku.gif)
 
 #### Módulo 1 - Funções e Lógica
 
@@ -92,7 +95,9 @@ de conjuntos, como: adição, subtração e intersecção.
 ###### Conceitos
 
 - Constante;
+  - nada de `var` **aqui!**
 - Função;
+  - sempre pura!
 - Números;
 - Operações matemáticas: 
   - soma, subtração, multiplicação, divisão, exponenciação e radiciação;
@@ -117,6 +122,7 @@ de conjuntos, como: adição, subtração e intersecção.
 
 
 <hr>
+
 #### Módulo 2 - Estatística & Estrutura de Dados
 
 Nesse módulo mostrarei como criar funções de Estatística baseando-se apenas
@@ -163,13 +169,36 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 - Conclusão do Módulo 1
 
 <hr>
+
 ### Super Sayajin II
+
+![](https://vignette1.wikia.nocookie.net/dragonball/images/d/d8/Goku_SSJ2_Artwork.png/revision/latest?cb=20160820231336&path-prefix=es)
+
+Vários conceitos teóricos da Programação Funcional serão explicados e implementados, como:
+
+- immutable data
+- pipe
+- compose
+- curry
+- partial application
+- trampoline
+
 
 <hr>
 ### Super Sayajin III
 
-<hr>
-### Super Sayajin IV
+- Arquitetura Backend (Redux)
+
 
 <hr>
+
+### Super Sayajin IV
+
+- Teoria das Categorias
+
+<hr>
+
 ### Super Sayajin V
+
+
+![](http://i.imgur.com/sqemrMI.jpg)
