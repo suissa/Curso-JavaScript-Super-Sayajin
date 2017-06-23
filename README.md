@@ -295,6 +295,10 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 ### Super Sayajin IV
 
 - Teoria das Categorias
+- Point-free programming, 
+- Morphisms, 
+- Data structures
+
 
 <hr>
 
