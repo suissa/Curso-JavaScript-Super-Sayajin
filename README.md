@@ -1,4 +1,9 @@
-# Curso-JavaScript-Super-Sayajin
+# Curso JavaScript Super Sayajin
+![](https://media.giphy.com/media/KdzF8XLE3FwXe/giphy.gif)
+
+<br>
+<br>
+
 Curso COMPLETO de JavaScript do básico ao avançado, trilhando o caminho Funcional.
 
 ## Módulos
