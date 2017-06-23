@@ -85,12 +85,14 @@ de conjuntos, como: adição, subtração e intersecção.
 
 ###### Conceitos
 
+- const
 - Função
 - Números
 - Operações matemáticas: soma, subtração, multiplicação, divisão, exponenciação e radiciação
   - todas baseadas apenas na soma
 - Boolean
 - Lógica: matemática e booleana
+- while/for
 - Conjuntos
 - Operaçes em Conjuntos
 - Física: como inferir fórmulas baseando-se em conceitos
@@ -112,10 +114,17 @@ na sua explicação e porque a estatística é a base para você usar Redes Neur
 e muito provavelmente o futuro da programação seja mais probabilística do que determinística.
 
 Com isso você aprenderá a organizar seus dados e retirar informações em cima de um conjunto<br>
-de dados numéricos
+de dados numéricos.
+
+###### Objetivo
+
+Construir uma calculadora, via API, com a maiorias das funções de Estatística utilizadas<br>
+pela Inteligência Artificial para que não precisemos depender do Python ou R para isso.
 
 ###### Conceitos
 
+- let
+- map/filter/reduce/concat/etc
 - Métodos de Matriz
 - Média
 - Moda
