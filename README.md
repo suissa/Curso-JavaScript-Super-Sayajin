@@ -37,6 +37,8 @@ que você faça será uma função que SEMPRE retornará algo.
 *que contém a propriedade *setada*, para que você possa encadear suas funções,* <br>
 *por exemplo.*
 
+https://media.giphy.com/media/KdzF8XLE3FwXe/giphy.gif
+
 ## Etapas
 
 - Super Sayajin I
