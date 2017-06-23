@@ -1,4 +1,4 @@
-# Curso-JavaScript-Super-Sayajin
+# Curso - JavaScript Super Sayajin
 
 > Curso COMPLETO de JavaScript do básico ao avançado trilhando pelo caminho Funcional utilizando ES6.
 
