@@ -259,6 +259,7 @@ no navegador como no Node.js
 
 Vários conceitos teóricos da Programação Funcional serão explicados e implementados, como:
 
+- Aridade
 - Immutable data
 - Pipe/Compose
 - Currying
