@@ -37,7 +37,7 @@ que você faça será uma função que SEMPRE retornará algo.
 *que contém a propriedade *setada*, para que você possa encadear suas funções,* <br>
 *por exemplo.*
 
-## Módulos
+## Etapas
 
 - Super Sayajin I
 - Super Sayajin II
@@ -52,7 +52,9 @@ depois disso você sempre re-usará as funções previamente criadas, ou seja, p
 função você deverá obrigatóriamente ter criado as anteriores.
 
 
-### Super Sayajin I - Funções e Lógica
+### Super Sayajin I 
+
+#### Módulo - Funções e Lógica
 
 Nesse módulo ensinarei como você irá traduzir seu conhecimento prévio, <br>
 principalmente em Matemática do Ensino Médio, em JavaScript Funcional.
@@ -105,9 +107,9 @@ de conjuntos, como: adição, subtração e intersecção.
 - Set
 
 
-### Super Sayajin II - Estrutura de Dados
+### Super Sayajin I 
 
-##### Estatística
+#### Módulo - Estatística & Estrutura de Dados
 
 Nesse módulo mostrarei como criar funções de Estatística baseando-se apenas
 na sua explicação e porque a estatística é a base para você usar Redes Neurais
