@@ -38,7 +38,8 @@ terá dois conjuntos: de entrada e de saída. Ou seja, qualquer tipo de transfor
 que você faça será uma função que SEMPRE retornará algo.
 
 
-*ps1: se não retorna algo não é função*
+*ps1: se não retorna algo não é função*<br>
+
 *ps2: em uma função de `get` você pode retornar o próprio objeto<br>
 *que contém a propriedade *setada*, para que você possa encadear suas funções,* <br>
 *por exemplo.*
@@ -183,6 +184,7 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 
 ###### Conceitos
 
+- Recursividade;
 - Métodos de Matriz;
 - Média;
 - Moda;
@@ -216,9 +218,38 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 
 ##### Pré-requisitos
 
-- Conclusão do Módulo 1
+- Conclusão do Módulo 2
 
 #### Módulo 3 - Biologia e Arquitetura de API
+
+
+##### Química
+
+- Estruturação dos dados dos átomos;
+- Estruturação dos dados das moléculas;
+- Reações Químicas Inorgânicas: síntese e decomposição;
+- Distribuição Eletrônica;
+- Balanceamento de Reações;
+- Cálculo de Lei de Hess.
+
+###### JavaScript
+
+
+
+
+#### Módulo 4 - O JavaScript nú
+
+Nesse módulo aprenderemos como o JavaScript funciona por trás das cortinas, tanto<br> 
+no navegador como no Node.js
+
+###### JavaScript
+
+- Async
+- Call Stack
+- EventLoop
+- Events
+- Promises
+- Prototype
 
 <hr>
 
@@ -228,13 +259,18 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 
 Vários conceitos teóricos da Programação Funcional serão explicados e implementados, como:
 
-- immutable data
-- pipe
-- compose
-- curry
-- partial application
-- trampoline
+- Immutable data
+- Pipe
+- Compose
+- Curry
+- Partial application
+- Trampoline
+- Monads
+- [FantasyLand](https://github.com/fantasyland/fantasy-land)
 
+##### Pré-requisitos
+
+- Conclusão do Módulo 2
 
 <hr>
 
@@ -242,23 +278,31 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 
 ![](http://pre13.deviantart.net/a8e4/th/pre/i/2016/361/f/7/son_goku_super_saiyan_3__2_by_nekoar-dat2zkq.png)
 
+
+
 - Arquitetura Backend (Redux)
 - Atomic Fucking Design
 - Programação Reativa
 
+##### Pré-requisitos
+
+- Conclusão do Módulo 3
 
 <hr>
 
 ### Super Sayajin IV
 
 - Teoria das Categorias
-- Conceitos 
 
 <hr>
 
 ### Super Sayajin V
 
-- 
+- Socket.io
+- WebRTC
+- Webtorrent
+- Blockchain
+- Redes Neurais
 
 
 ![](http://i.imgur.com/sqemrMI.jpg)
