@@ -58,6 +58,7 @@ função você deverá obrigatóriamente ter criado as anteriores.
 - brio
 
 
+<hr>
 ### Super Sayajin I 
 
 #### Módulo 1 - Funções e Lógica
@@ -90,32 +91,32 @@ de conjuntos, como: adição, subtração e intersecção.
 
 ###### Conceitos
 
-- Constante
-- Função
-- Números
-- Operações matemáticas: soma, subtração, multiplicação, divisão, exponenciação e radiciação
-  - todas baseadas apenas na soma
-- Boolean
-- Lógica: matemática e booleana
-- `while`/`for`
-- Conjuntos
-- Operaçes com Conjuntos
-- Física: como inferir fórmulas baseando-se em conceitos
+- Constante;
+- Função;
+- Números;
+- Operações matemáticas: 
+  - soma, subtração, multiplicação, divisão, exponenciação e radiciação;
+  - todas baseadas apenas na soma;
+- Boolean;
+- Lógica: matemática e booleana;
+- Conjuntos;
+- Operaçes com Conjuntos;
+- Física: como inferir fórmulas baseando-se em conceitos.
 
 ###### JavaScript
 
-- `Function`
-- `Number`
-- `Array`
-- `Set`
+- `while`/`for`;
+- `Function`;
+- `Number`;
+- `Array`;
+- `Set`.
 
 #### Pré-requisitos
 
-- ensino médio (cursando ou completo)
+- Ensino Médio (cursando ou completo)
 
 
-### Super Sayajin I 
-
+<hr>
 #### Módulo 2 - Estatística & Estrutura de Dados
 
 Nesse módulo mostrarei como criar funções de Estatística baseando-se apenas
@@ -132,37 +133,43 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 
 ###### Conceitos
 
-- `let`
-- `map`/`filter`/`reduce`/`concat`/etc
-- Métodos de Matriz
-- Média
-- Moda
-- Desvio Padrão
-- Como inferir fórmulas baseando-se em conceitos
-- Organização e estruturação dos dados
-- etc
+- Métodos de Matriz;
+- Média;
+- Moda;
+- Desvio Padrão;
+- Como inferir fórmulas baseando-se em conceitos;
+- Organização e estruturação dos dados;
+- etc.
 
 ##### Química
 
-- Estruturação dos dados dos átomos
-- Estruturação dos dados das moléculas
-- Reações Químicas Inorgânicas
-- Distribuição Eletrônica
-- Balanceamento de Reações 
-- Cálculo de Lei de Hess 
+- Estruturação dos dados dos átomos;
+- Estruturação dos dados das moléculas;
+- Reações Químicas Inorgânicas: síntese e decomposição;
+- Distribuição Eletrônica;
+- Balanceamento de Reações;
+- Cálculo de Lei de Hess.
 
 ###### JavaScript
 
-- `Object`
-- `Math`
-- `Symbol`
+- `let`;
+- `map`/`filter`/`reduce`/`concat`/etc;
+- `Object`;
+- `Math`;
+- `Symbol`.
 
 #### Pré-requisitos
 
 - Conclusão do Módulo 1
 
+<hr>
+### Super Sayajin II
+
+<hr>
 ### Super Sayajin III
 
+<hr>
 ### Super Sayajin IV
 
+<hr>
 ### Super Sayajin V
