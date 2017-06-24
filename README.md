@@ -38,15 +38,15 @@ terá dois conjuntos: de entrada e de saída. Ou seja, qualquer tipo de transfor
 que você faça será uma função que SEMPRE retornará algo.
 
 
-*ps1: se não retorna algo não é função*<br>
+*ps1: se não retorna algo não é função* <br>
 
-*ps2: em uma função de `get` você pode retornar o próprio objeto<br>
-*que contém a propriedade *setada*, para que você possa encadear suas funções,* <br>
+*ps2: em uma função de `get` você pode retornar o próprio objeto* <br>
+*que contém a propriedade setada, para que você possa encadear suas funções,* <br>
 *por exemplo.*
 
 https://media.giphy.com/media/KdzF8XLE3FwXe/giphy.gif
 
-## Etapas
+## Níveis
 
 - Super Sayajin I
 - Super Sayajin II
