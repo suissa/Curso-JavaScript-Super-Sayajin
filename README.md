@@ -45,7 +45,7 @@ que você faça será uma função que SEMPRE retornará algo.
 
 *ps1: se não retorna algo não é função* <br>
 
-*ps2: em uma função de `get` você pode retornar o próprio objeto* <br>
+*ps2: em uma função de `set` você pode retornar o próprio objeto* <br>
 *que contém a propriedade setada, para que você possa encadear suas funções,* <br>
 *por exemplo.*
 
