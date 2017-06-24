@@ -288,7 +288,13 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 
 ![](http://pre13.deviantart.net/a8e4/th/pre/i/2016/361/f/7/son_goku_super_saiyan_3__2_by_nekoar-dat2zkq.png)
 
+#### Módulo 1 - NoSQL
 
+- MongoDb
+- Redis
+- Neo4J
+
+#### Módulo 2 - Arquitetura
 
 - Arquitetura Backend (Redux)
 - Atomic Fucking Design
