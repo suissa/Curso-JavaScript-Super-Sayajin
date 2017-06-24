@@ -1,4 +1,9 @@
-# Curso - JavaScript Super Sayajin
+![Curso - JavaScript Super Saiyajin](http://i.imgur.com/jGXoRO6.png)
+
+
+# Curso - JavaScript Super Saiyajin
+
+*depois de criar que percebi que faltou um i em Saiyajin*
 
 > Curso COMPLETO de JavaScript do básico ao avançado trilhando pelo caminho Funcional utilizando ES6.
 
