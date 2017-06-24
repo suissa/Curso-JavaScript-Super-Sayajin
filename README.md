@@ -168,7 +168,8 @@ deverá criar pelo menos 2 funções novas.
 
 <hr>
 
-#### Módulo 2 - Estatística & Estrutura de Dados
+#### Módulo 2 - Estatística & Estrutura de Dados 
+##### Super Saiyajin Dai Ni Dankai (第2形態)
 
 Nesse módulo mostrarei como criar funções de Estatística baseando-se apenas
 na sua explicação e porque a estatística é a base para se usar as Redes Neurais
@@ -221,6 +222,7 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 - Conclusão do Módulo 2
 
 #### Módulo 3 - Biologia e Arquitetura de API
+##### Super Saiyajin Dai San Dankai (超サイヤ人第3段階)
 
 
 ##### Química
@@ -238,6 +240,7 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 
 
 #### Módulo 4 - O JavaScript nú
+##### Super Saiyajin Full Power (超サイヤ人フルパワ)
 
 Nesse módulo aprenderemos como o JavaScript funciona por trás das cortinas, tanto<br> 
 no navegador como no Node.js
@@ -253,7 +256,7 @@ no navegador como no Node.js
 
 <hr>
 
-### Super Sayajin II
+### Super Saiyajin II
 
 ![](https://vignette1.wikia.nocookie.net/dragonball/images/d/d8/Goku_SSJ2_Artwork.png/revision/latest?cb=20160820231336&path-prefix=es)
 
