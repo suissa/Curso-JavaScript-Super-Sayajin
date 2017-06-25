@@ -8,7 +8,7 @@
 > Curso COMPLETO de JavaScript do básico ao avançado trilhando pelo caminho Funcional utilizando ES6.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/cards.jpg">
+  <img src="https://raw.githubusercontent.com/suissa/Curso-JavaScript-Super-Sayajin/master/img/cards.jpg">
 </p>
 
 Esse curso, por mais que você odeie, irá iniciar pela Matemática mais básica possível,<br>
@@ -103,7 +103,7 @@ Telegram
 ### Super Saiyajin I 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss1.jpg">
+  <img src="https://raw.githubusercontent.com/suissa/Curso-JavaScript-Super-Sayajin/master/img/ss1.jpg">
 </p>
 
 #### Módulo 1 - Funções e Lógica
@@ -268,7 +268,7 @@ no navegador como no Node.js
 ### Super Saiyajin II
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss2.jpg">
+  <img src="https://raw.githubusercontent.com/suissa/Curso-JavaScript-Super-Sayajin/master/img/ss2.jpg">
 </p>
 
 Vários conceitos teóricos da Programação Funcional serão explicados e implementados, como:
@@ -293,7 +293,7 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 ### Super Saiyajin III
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss3.jpg">
+  <img src="https://raw.githubusercontent.com/suissa/Curso-JavaScript-Super-Sayajin/master/img/ss3.jpg">
 </p>
 
 #### Módulo 1 - NoSQL
@@ -317,7 +317,7 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 ### Super Saiyajin IV
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss4.jpg">
+  <img src="https://raw.githubusercontent.com/suissa/Curso-JavaScript-Super-Sayajin/master/img/ss4.jpg">
 </p>
 
 - Teoria das Categorias
@@ -331,7 +331,7 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 ### Super Saiyajin V
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss5.jpg">
+  <img src="https://raw.githubusercontent.com/suissa/Curso-JavaScript-Super-Sayajin/master/img/ss5.jpg">
 </p>
 
 - Socket.io
