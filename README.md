@@ -55,11 +55,11 @@ https://media.giphy.com/media/KdzF8XLE3FwXe/giphy.gif
 
 ## Níveis
 
-- Super Sayajin I
-- Super Sayajin II
-- Super Sayajin III
-- Super Sayajin IV
-- Super Sayajin V
+- Super Saiyajin I
+- Super Saiyajin II
+- Super Saiyajin III
+- Super Saiyajin IV
+- Super Saiyajin V
 
 Antes de falar da ementa de cada um eu quero que você entenda que TODO o conteúdo<br> 
 matemático será voltado para casos reais e eu LHE GARANTO que você usará na sua vida, <br>
@@ -100,7 +100,7 @@ Telegram
 
 <hr>
 
-### Super Sayajin I 
+### Super Saiyajin I 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss1.jpg">
@@ -290,7 +290,7 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 
 <hr>
 
-### Super Sayajin III
+### Super Saiyajin III
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss3.jpg">
@@ -314,7 +314,7 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 
 <hr>
 
-### Super Sayajin IV
+### Super Saiyajin IV
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss4.jpg">
@@ -328,7 +328,7 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 
 <hr>
 
-### Super Sayajin V
+### Super Saiyajin V
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss5.jpg">
