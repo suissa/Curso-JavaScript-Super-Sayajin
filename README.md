@@ -83,9 +83,10 @@ função você deverá obrigatóriamente ter criado as anteriores.
 
 ## Meta
 
-Meus cursos SEMPRE terão a mesma meta: 100 alunos que colaborarem.
+Como teve uma busca enorme e em no máximo 4 dias estamos chegando em 100 inscritos<br> 
+**a meta ATUAL agora é 150 alunos e para isso adicionarei alguns sorteios no curso!**
 
-E o valor desse será de R$35.
+**E o valor é de R$35.**
 
 <br>
 <br>
