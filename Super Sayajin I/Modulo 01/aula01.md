@@ -69,6 +69,9 @@ Essas duas funções utilizam o mesmo conjunto de entrada, o conjunto dos númer
 
 
 <br>
+
+![](http://geradormemes.com/media/created/vuaeem.jpg)
+
 <br>
 
 
