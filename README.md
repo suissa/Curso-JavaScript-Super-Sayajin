@@ -7,7 +7,9 @@
 
 > Curso COMPLETO de JavaScript do básico ao avançado trilhando pelo caminho Funcional utilizando ES6.
 
-![](http://img06.deviantart.net/2674/i/2015/214/7/5/vegeta_super_saiyan_god_super_saiyan_3_by_dgkilla95-d93xztn.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suissa/Curso-JavaScript-Super-Sayajin/master/img/cards.jpg">
+</p>
 
 Esse curso, por mais que você odeie, irá iniciar pela Matemática mais básica possível,<br>
 pois EU acredito que a Matemática Discreta é OBRIGATÓRIA para todo o programador, assim como é:<br>
@@ -53,11 +55,11 @@ que você faça será uma função que SEMPRE retornará algo.
 
 ## Níveis
 
-- Super Sayajin I
-- Super Sayajin II
-- Super Sayajin III
-- Super Sayajin IV
-- Super Sayajin V
+- Super Saiyajin I
+- Super Saiyajin II
+- Super Saiyajin III
+- Super Saiyajin IV
+- Super Saiyajin V
 
 Antes de falar da ementa de cada um eu quero que você entenda que TODO o conteúdo<br> 
 matemático será voltado para casos reais e eu LHE GARANTO que você usará na sua vida, <br>
@@ -98,9 +100,11 @@ Telegram
 
 <hr>
 
-### Super Sayajin I 
+### Super Saiyajin I 
 
-![](http://cydeweys.com/archive/archive1/benyin/SuperGoku.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suissa/Curso-JavaScript-Super-Sayajin/master/img/ss1.jpg">
+</p>
 
 #### Módulo 1 - Funções e Lógica
 
@@ -263,7 +267,9 @@ no navegador como no Node.js
 
 ### Super Saiyajin II
 
-![](https://vignette1.wikia.nocookie.net/dragonball/images/d/d8/Goku_SSJ2_Artwork.png/revision/latest?cb=20160820231336&path-prefix=es)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suissa/Curso-JavaScript-Super-Sayajin/master/img/ss2.jpg">
+</p>
 
 Vários conceitos teóricos da Programação Funcional serão explicados e implementados, como:
 
@@ -284,9 +290,11 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 
 <hr>
 
-### Super Sayajin III
+### Super Saiyajin III
 
-![](http://pre13.deviantart.net/a8e4/th/pre/i/2016/361/f/7/son_goku_super_saiyan_3__2_by_nekoar-dat2zkq.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suissa/Curso-JavaScript-Super-Sayajin/master/img/ss3.jpg">
+</p>
 
 #### Módulo 1 - NoSQL
 
@@ -306,7 +314,11 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 
 <hr>
 
-### Super Sayajin IV
+### Super Saiyajin IV
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suissa/Curso-JavaScript-Super-Sayajin/master/img/ss4.jpg">
+</p>
 
 - Teoria das Categorias
 - Point-free programming, 
@@ -316,13 +328,14 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 
 <hr>
 
-### Super Sayajin V
+### Super Saiyajin V
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suissa/Curso-JavaScript-Super-Sayajin/master/img/ss5.jpg">
+</p>
 
 - Socket.io
 - WebRTC
 - Webtorrent
 - Blockchain
 - Redes Neurais
-
-
-![](http://i.imgur.com/sqemrMI.jpg)
