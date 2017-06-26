@@ -87,7 +87,7 @@ deverá criar pelo menos 2 funções novas.
 
 #### Aula 01 - Conhecendo funções anônimas
 
-#####Entendendo as operações matemáticas básicas
+##### Entendendo as operações matemáticas básicas
 
 - soma: 
   - ( x, y ) => x + y 
@@ -95,12 +95,24 @@ deverá criar pelo menos 2 funções novas.
 - subtração:
   - ( x, y ) => soma( x, -y ) 
   - ( y ) => ( x ) => soma( x )( -y ) 
+  + invertendo essa operação
 - multiplicação:
   - ( x, y ) => x * y 
   - ( y ) => ( x ) => ...
+  + invertendo essa operação
 - divisão:
   - ( x, y ) => x / y 
   - ( y ) => ( x ) => ...
+  + invertendo essa operação
+
+##### Desafio
+
+Criar a função de divisão utilizando apenas a função de soma, <br>
+onde ela receba 2 valores inteiros e consiga retornar um <br>
+valor decimal. Por exemplo: `5 / 2 = 2.5`
+
+> **Lembrando que a ÚNICA função aceita dentro da divisão será a da soma!**
+
 
 ###### Oozaru
 
@@ -128,9 +140,14 @@ Logo preciso também lhe mostrar do outro jeito, usando `function`.
 - divisão 
     - de inteiros resultando decimal
 - exponenciação
+  + soma
+  + subtração
+  + multiplicação
+  + divisão  
+  + invertendo essa operação
 - radiciação
     + como criar uma função genérica utilizando `Math.pow`
-
+    + invertendo essa operação
 
 <br>
 <hr>
@@ -138,10 +155,9 @@ Logo preciso também lhe mostrar do outro jeito, usando `function`.
 
 #### Aula 03 - Entendendo as operações matemáticas não tão básicas
 
-- equação do primeiro grau
+- equação do primeiro grau 
 - equação do segundo grau
 - bhaskara
-
 
 
 <br>
