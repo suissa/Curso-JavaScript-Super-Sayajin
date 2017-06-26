@@ -107,7 +107,24 @@ parâmetros e o conjunto `B` é o conjunto dos valores dos resultados.
 Logo essa relação entre esses dois conjuntos pode também ser<br> 
 uma transformação, filtragem, etc. Por exemplo:
 
+
 ![](http://clubes.obmep.org.br/blog/wp-content/uploads/2015/11/separado.png)
+
+Nesse caso temos duas funções:
+
+- uma filtra os números pares;
+- a outra filtra os números ímpares;
+
+Essas duas funções utilizam o mesmo conjunto de entrada, o conjunto dos números Naturais e suas respostas são **sub-conjuntos** dos números Naturais.
+
+> Você sabe que temos outros conjuntos numéricos também né?!
+
+
+- Conjunto dos Naturais;
+- Conjunto dos Inteiros;
+- Conjunto dos Racionais;
+- Conjunto dos Irracionais;
+- Conjunto dos Reais ;
 
 
 
@@ -141,7 +158,12 @@ Criar a função de divisão utilizando apenas a função de soma, <br>
 onde ela receba 2 valores inteiros e consiga retornar um <br>
 valor decimal. Por exemplo: `5 / 2 = 2.5`
 
+Além disso explique como dois valores do conjunto dos Números Naturais<br>
+transformou-se em um valor que não está contido nesse grupo e qual o grupo que ele pertence.
+
 > **Lembrando que a ÚNICA função aceita dentro da divisão será a da soma!**
+
+
 
 
 ###### Oozaru
