@@ -7,9 +7,15 @@
 
 > Curso COMPLETO de JavaScript do básico ao avançado trilhando pelo caminho Funcional utilizando ES6.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/cards.jpg">
-</p>
+## Antes do Curso
+
+![Antes do Curso](http://i.imgur.com/PllOhHs.jpg)
+
+## Depois do Curso
+
+![Depois do Curso](http://i.imgur.com/D1HX4AP.jpg)
+
+## O Curso
 
 Esse curso, por mais que você odeie, irá iniciar pela Matemática mais básica possível,<br>
 pois EU acredito que a Matemática Discreta é OBRIGATÓRIA para todo o programador, assim como é:<br>
@@ -40,7 +46,7 @@ Além disso veja a definição de uma função:
 Trocando em míudos:
 
 
-> Uma função é a ação de transformação entre conjuntos, onde você SEMPRE<br> 
+> Uma função é a ação de transformação entre conjuntos, onde você SEMPRE<br>
 terá dois conjuntos: de entrada e de saída. Ou seja, qualquer tipo de transformação<br>
 que você faça será uma função que SEMPRE retornará algo.
 
@@ -51,23 +57,27 @@ que você faça será uma função que SEMPRE retornará algo.
 *que contém a propriedade setada, para que você possa encadear suas funções,* <br>
 *por exemplo.*
 
-https://media.giphy.com/media/KdzF8XLE3FwXe/giphy.gif
+<br>
+
+<br>
 
 ## Níveis
 
-- Super Saiyajin I
-- Super Saiyajin II
-- Super Saiyajin III
-- Super Saiyajin IV
-- Super Saiyajin V
+<img src="https://media.giphy.com/media/KdzF8XLE3FwXe/giphy.gif">
 
-Antes de falar da ementa de cada um eu quero que você entenda que TODO o conteúdo<br> 
-matemático será voltado para casos reais e eu LHE GARANTO que você usará na sua vida, <br>
+- **Super Sayajin I**
+- **Super Sayajin II**
+- **Super Sayajin III**
+- **Super Sayajin IV**
+- **Super Sayajin V**
+
+Antes de falar da ementa de cada um eu quero que você entenda que o conteúdo<br>
+matemático será voltado para casos reais e eu LHE GARANTO que você usará algum dia, <br>
 porém antes você precisa entender como cada operação matemática funciona por trás dos panos, <br>
 depois disso você sempre re-usará as funções previamente criadas, ou seja, para criar a próxima<br>
 função você deverá obrigatóriamente ter criado as anteriores.
 
-#### Pré-requisitos
+## Pré-requisitos
 
 - Usar o cérebro
 - Ensino Médio
@@ -77,13 +87,23 @@ função você deverá obrigatóriamente ter criado as anteriores.
 
 ## Meta
 
-Meus cursos SEMPRE terão a mesma meta: 100 alunos.
+Como teve uma busca enorme e em no máximo 4 dias estamos chegando em 100 inscritos<br>
+**a meta ATUAL agora é 150 alunos e para isso adicionarei alguns sorteios no curso!**
 
-E o valor desse será de R$35.
+**E o valor é de R$35.**
 
-
+<br>
+<br>
 
 > **Tá suave né???**
+
+<br>
+
+![](http://img06.deviantart.net/2674/i/2015/214/7/5/vegeta_super_saiyan_god_super_saiyan_3_by_dgkilla95-d93xztn.jpg)
+
+<br>
+<hr>
+<br>
 
 ## Início
 
@@ -98,13 +118,17 @@ Email
 Facebook/Twitter
 Telegram
 
+<br>
+<br>
+
 <hr>
 
-### Super Saiyajin I 
+<br>
+<br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss1.jpg">
-</p>
+### Super Sayajin I
+
+![](http://cydeweys.com/archive/archive1/benyin/SuperGoku.gif)
 
 #### Módulo 1 - Funções e Lógica
 
@@ -122,7 +146,7 @@ Esse módulo É **OBRIGATÓRIO** para quem:
 
 ##### Matemática Discreta
 
-Vamos aprender como criar TODAS as operações mais utilizadas na Matemática<br> 
+Vamos aprender como criar TODAS as operações mais utilizadas na Matemática<br>
 e como trabalhar com o tipo `Number`, para isso inciaremos direto na função, <br>
 para que o aluno entenda que esse é o conceito mais importante que ele precisa.
 
@@ -141,7 +165,7 @@ de conjuntos, como: adição, subtração e intersecção.
 - Função;
   - sempre pura!
 - Números;
-- Operações matemáticas: 
+- Operações matemáticas:
   - soma, subtração, multiplicação, divisão, exponenciação e radiciação;
   - todas baseadas apenas na soma;
 - Boolean;
@@ -171,13 +195,18 @@ um artigo sobre algum dos temas abordados.
 
 #### Projeto Final
 
-Criação de uma calculadora com o máximo possível de funções matemáticas e físicas, cada aluno<br> 
+Criação de uma calculadora com o máximo possível de funções matemáticas e físicas, cada aluno<br>
 deverá criar pelo menos 2 funções novas.
 
 
+
+<br>
+
 <hr>
 
-#### Módulo 2 - Estatística & Estrutura de Dados 
+<br>
+
+#### Módulo 2 - Estatística & Estrutura de Dados
 ##### Super Saiyajin Dai Ni Dankai (第2形態)
 
 Nesse módulo mostrarei como criar funções de Estatística baseando-se apenas
@@ -226,13 +255,19 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 [Uma Tabela Periódica diferente utilizando-se UX e API](https://github.com/Webschool-io/Elementos-Quimica).
 
 
-##### Pré-requisitos
 
-- Conclusão do Módulo 2
+<br>
+
+<hr>
+<br>
 
 #### Módulo 3 - Biologia e Arquitetura de API
 ##### Super Saiyajin Dai San Dankai (超サイヤ人第3段階)
 
+
+##### Pré-requisitos
+
+- Conclusão do Módulo 2
 
 ##### Química
 
@@ -248,10 +283,17 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 
 
 
+<br>
+
+<hr>
+
+<br>
+
+
 #### Módulo 4 - O JavaScript nú
 ##### Super Saiyajin Full Power (超サイヤ人フルパワ)
 
-Nesse módulo aprenderemos como o JavaScript funciona por trás das cortinas, tanto<br> 
+Nesse módulo aprenderemos como o JavaScript funciona por trás das cortinas, tanto<br>
 no navegador como no Node.js
 
 ###### JavaScript
@@ -263,13 +305,18 @@ no navegador como no Node.js
 - Promises
 - Prototype
 
+
+<br>
+<br>
+
 <hr>
+
+<br>
+<br>
 
 ### Super Saiyajin II
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss2.jpg">
-</p>
+![](https://vignette1.wikia.nocookie.net/dragonball/images/d/d8/Goku_SSJ2_Artwork.png/revision/latest?cb=20160820231336&path-prefix=es)
 
 Vários conceitos teóricos da Programação Funcional serão explicados e implementados, como:
 
@@ -286,15 +333,26 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 
 ##### Pré-requisitos
 
-- Conclusão do Módulo 2
+- Conclusão do Nível Super Saiyajin I
+
+
+<br>
+<br>
 
 <hr>
 
-### Super Saiyajin III
+<br>
+<br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss3.jpg">
-</p>
+
+### Super Sayajin III
+
+![](http://pre13.deviantart.net/a8e4/th/pre/i/2016/361/f/7/son_goku_super_saiyan_3__2_by_nekoar-dat2zkq.png)
+
+
+##### Pré-requisitos
+
+- Conclusão do Nível Super Saiyajin II
 
 #### Módulo 1 - NoSQL
 
@@ -308,34 +366,74 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 - Atomic Fucking Design
 - Programação Reativa
 
-##### Pré-requisitos
 
-- Conclusão do Módulo 3
+
+<br>
+<br>
 
 <hr>
 
-### Super Saiyajin IV
+<br>
+<br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss4.jpg">
-</p>
+
+### Super Sayajin IV
 
 - Teoria das Categorias
-- Point-free programming, 
-- Morphisms, 
+- Point-free programming,
+- Morphisms,
 - Data structures
 
 
+##### Pré-requisitos
+
+- Conclusão do Nível Super Saiyajin III
+
+<br>
+<br>
+
 <hr>
 
-### Super Saiyajin V
+<br>
+<br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss5.jpg">
-</p>
+
+### Super Sayajin V
+
+##### Pré-requisitos
+
+- Conclusão do Nível Super Saiyajin IV
+
+#### Ementa
 
 - Socket.io
 - WebRTC
 - Webtorrent
 - Blockchain
 - Redes Neurais
+
+
+
+
+
+![](http://i.imgur.com/sqemrMI.jpg)~
+
+### Certificado
+
+O aluno receberá um certificado mediante a entrega de todos os requisitos obrigatórios.
+
+
+# Forma de pagamento
+
+Será feito via depósito diretamente na conta do professor. O valor de investimento do curso é 35R$.
+
+## Exercícios
+
+
+## Suporte
+
+O curso conta com o suporte da própria comunidade e também dos professores da Webschool através do [Telegram](https://t.me/forumwebschool) e do nosso [Fórum](https://github.com/Webschool-io/forum). Vamos utilizar as Issues nosso repositorio [Fórum](https://github.com/Webschool-io/forum) para poder documentar as duvidas, assim podendo manter um histórico que possa ajudar outras pessoas que venham a ter a mesma dúvida que você. Além disso o nosso fórum e conectado com o grupo do telegram para que sua dúvida possa ser respondida facilmente.
+
+## Apoio
+
+Entre em contato para apoiar esse curso.
