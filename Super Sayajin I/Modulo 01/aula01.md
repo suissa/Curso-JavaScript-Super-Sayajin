@@ -177,10 +177,29 @@ Agora eu lhe pergunto:
 
 Vamos imaginar o seguinte:
 
+<br>
+
 Na lógica possuimos o operador de negação, que apenas **inverte** um valor,<br>
 por exemplo: `!false === true`.
 
-Até ai tudo bem né? Agora vamos estender esse conceito para os números.
+<br>
+
+> Negação, em lógica e matemática, é uma operação unária sobre valores lógicos,<br> 
+> por exemplo o valor lógico de uma proposição. Se a proposição é verdadeira,<br> 
+> então o operador lógico negação produz o valor falso, e vice versa.
+
+*fonte: [Negação - Wikipedia](https://pt.wikipedia.org/wiki/Nega%C3%A7%C3%A3o)*
+
+<br>
+
+Até ai tudo bem né? 
+
+
+<br>
+
+**Agora vamos estender esse conceito para os números.**
+
+<br>
 
 Imagine que a negação de um número é o seu inverso e qual o inverso de 4?
 
@@ -189,30 +208,36 @@ distância até o ponto `0` nesse eixo. Logo se quisermos inverter esse valor<br
 basta pegarmos essa mesma distância e partirmos do `0` até o valor dessa<br>
 distância porém seguindo o eixo x negativo.
 
+<br>
+
 > Simples não???
 
-Então agora pense aqui comigo:
+<br>
+
+Então pense aqui comigo, basta multiplicarmos por `-1` para invertermos<br>
+o valor de um número. Sabendo disso acompanhe abaixo:
 
 ```
+x = -1
 
 -10 + -4 = -14
 ~10 + ~4 = ~(10 + 4) = ~(14) = -14
-10x + 4x = 14x = -14
+10x + 4x = 14x = 14 * -1 = -14
 
 -10 * -4 = 40
 ~10 * ~4 = ~ * ~(10 * 4) = ~^2(40) = 40
-10x * 4x = 40x^2 = 40
+10x * 4x = 40x^2 = 40 * -1 * -1 = -40 * -1 = 40
 
 ```
 
 <br>
 
 Perceba que neguei o valor dos valores negativos e depois troquei esse<br>
-operador de negação pelo `x` para poder provar logica-matematicamente.
+operador de negação pelo `x` para poder provar lógica-matematicamente.
 
 Na soma `10x + 4x` o resultado é `14x` e na multiplicação é `40x^2`<br>
 sabendo que o `x` é a negação então na soma ele apenas nega o valor e<br>
-na multiplicação ele nega a negação, pois temos duas negações.
+na multiplicação ele nega a negação, pois temos uma dupla negações.
 
 <br>
 
