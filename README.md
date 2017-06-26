@@ -132,6 +132,13 @@ Que entrarei em contato para passar a forma de pagamento.
 
 #### Módulo 1 - Funções e Lógica
 
+#### Pré-requisitos
+
+- Ensino Médio (cursando ou completo)
+- Não ter medo da Matemática pq ela é uma LINDA!
+
+#### Objetivo
+
 Nesse módulo ensinarei como você irá traduzir seu conhecimento prévio, <br>
 principalmente em Matemática do Ensino Médio, em JavaScript Funcional.
 
@@ -141,10 +148,7 @@ Esse módulo É **OBRIGATÓRIO** para quem:
 - Não sabe como compor operações matemáticas complexas usando apenas soma e números negativos;
 - Não tem lógica matemática forte
 
-
-#### Tópicos
-
-##### Matemática Discreta
+#### Matemática
 
 Vamos aprender como criar TODAS as operações mais utilizadas na Matemática<br> 
 e como trabalhar com o tipo `Number`, para isso inciaremos direto na função, <br>
@@ -182,11 +186,6 @@ de conjuntos, como: adição, subtração e intersecção.
 - `Array`;
 - `Set`.
 
-#### Pré-requisitos
-
-- Ensino Médio (cursando ou completo)
-- Não ter medo da Matemática pq ela é uma LINDA!
-
 #### Artigo
 
 Sim além dos exercícios que serão passados em cada aula ainda teremos **pelo menos** <br>
@@ -215,6 +214,11 @@ e muito provavelmente no futuro a programação seja mais probabilística do que
 
 Com isso você aprenderá a organizar seus dados e retirar informações em cima de um conjunto<br>
 de dados numéricos.
+
+#### Pré-requisitos
+
+- Ensino Médio (cursando ou completo)
+- Não ter medo da Matemática pq ela é uma LINDA!
 
 #### Objetivo
 
