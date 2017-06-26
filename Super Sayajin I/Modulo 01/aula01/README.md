@@ -384,21 +384,39 @@ console.log( 'tenTimesResult', tenTimesResult ) // tenTimesResult 50
 Perceba que quebramos uma função que possuía dois parâmetros<br>
 em outras duas funções que recebem apenas um parâmetro cada.
 
+<br>
+<br>
+
 > **Sabe o porquê?**
+
+<br>
+<br>
 
 *ps: Utilizei `o porquê` junto e com acento pois nesse caso ele*<br>
 *tem a função de substantivo,  sinônimo de motivo, razão, causa<br>*
 *e sempre deve vir acompanhado do artigo `o`.*
 
 <br>
+<br>
+
+E só para corroborar o que eu disse anteriormente leia essa citação:
+
+<br>
 
 > "Já que todas as funções esperando mais de um argumento podem<br> 
 > ser transformadas em funções equivalentes recebendo uma única entrada<br> 
 > (via Currying), o lambda cálculo não tem interesse em criar funções<br> 
-> que aceitam mais de um argumento. "
+> que aceitam mais de um argumento..."
 
 <br>
+<br>
 
+> **Você já tinha imaginado quebrar uma função tão simples como a soma em duas?**
+
+> Eu, como AMO a Matemática, adoro de trabalhar dessa forma.
+
+<br>
+<br>
 
 
 > **Então agora vamos escrever essa mesma função usando apenas a soma!**
