@@ -270,16 +270,10 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 
 - Conclusão do Módulo 2
 
-##### Química
+##### Biologia
 
-- Estruturação dos dados dos átomos;
-- Estruturação dos dados das moléculas;
-- Reações Químicas Inorgânicas: síntese e decomposição;
-- Distribuição Eletrônica;
-- Balanceamento de Reações;
-- Cálculo de Lei de Hess.
 
-###### JavaScript
+##### JavaScript
 
 
 
