@@ -112,11 +112,13 @@ Como teve uma busca enorme e em no máximo 4 dias estamos chegando em 100 inscri
 
 ## Inscrição
 
-Para se inscrever basta abrir uma issue nesse repositório com seus seguintes dados:
+Para se inscrever basta abrir uma [Issue](https://github.com/suissa/Curso-JavaScript-Super-Sayajin/issues) nesse repositório com seus seguintes dados:
 
-Email
-Facebook/Twitter
-Telegram
+- Email
+- Facebook/Twitter
+- Telegram
+
+Que entrarei em contato para passar a forma de pagamento. 
 
 <br>
 <br>
