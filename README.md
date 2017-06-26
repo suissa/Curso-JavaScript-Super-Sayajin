@@ -7,7 +7,11 @@
 
 > Curso COMPLETO de JavaScript do básico ao avançado trilhando pelo caminho Funcional utilizando ES6.
 
-![](http://img06.deviantart.net/2674/i/2015/214/7/5/vegeta_super_saiyan_god_super_saiyan_3_by_dgkilla95-d93xztn.jpg)
+
+![Antes do Curso](http://i.imgur.com/PllOhHs.jpg)
+
+![Depois do Curso](http://i.imgur.com/D1HX4AP.jpg)
+
 
 Esse curso, por mais que você odeie, irá iniciar pela Matemática mais básica possível,<br>
 pois EU acredito que a Matemática Discreta é OBRIGATÓRIA para todo o programador, assim como é:<br>
@@ -75,13 +79,22 @@ função você deverá obrigatóriamente ter criado as anteriores.
 
 ## Meta
 
-Meus cursos SEMPRE terão a mesma meta: 100 alunos.
+Meus cursos SEMPRE terão a mesma meta: 100 alunos que colaborarem.
 
 E o valor desse será de R$35.
 
-
+<br>
+<br>
 
 > **Tá suave né???**
+
+<br>
+
+![](http://img06.deviantart.net/2674/i/2015/214/7/5/vegeta_super_saiyan_god_super_saiyan_3_by_dgkilla95-d93xztn.jpg)
+
+<br>
+<hr>
+<br>
 
 ## Início
 
