@@ -113,7 +113,13 @@ Email
 Facebook/Twitter
 Telegram
 
+<br>
+<br>
+
 <hr>
+
+<br>
+<br>
 
 ### Super Sayajin I 
 
@@ -188,7 +194,12 @@ Criação de uma calculadora com o máximo possível de funções matemáticas e
 deverá criar pelo menos 2 funções novas.
 
 
+
+<br>
+
 <hr>
+
+<br>
 
 #### Módulo 2 - Estatística & Estrutura de Dados 
 ##### Super Saiyajin Dai Ni Dankai (第2形態)
@@ -239,13 +250,19 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 [Uma Tabela Periódica diferente utilizando-se UX e API](https://github.com/Webschool-io/Elementos-Quimica).
 
 
-##### Pré-requisitos
 
-- Conclusão do Módulo 2
+<br>
+
+<hr>
+<br>
 
 #### Módulo 3 - Biologia e Arquitetura de API
 ##### Super Saiyajin Dai San Dankai (超サイヤ人第3段階)
 
+
+##### Pré-requisitos
+
+- Conclusão do Módulo 2
 
 ##### Química
 
@@ -259,6 +276,13 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 ###### JavaScript
 
 
+
+
+<br>
+
+<hr>
+
+<br>
 
 
 #### Módulo 4 - O JavaScript nú
@@ -276,7 +300,14 @@ no navegador como no Node.js
 - Promises
 - Prototype
 
+
+<br>
+<br>
+
 <hr>
+
+<br>
+<br>
 
 ### Super Saiyajin II
 
@@ -297,13 +328,26 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 
 ##### Pré-requisitos
 
-- Conclusão do Módulo 2
+- Conclusão do Nível Super Saiyajin I
+
+
+<br>
+<br>
 
 <hr>
+
+<br>
+<br>
+
 
 ### Super Sayajin III
 
 ![](http://pre13.deviantart.net/a8e4/th/pre/i/2016/361/f/7/son_goku_super_saiyan_3__2_by_nekoar-dat2zkq.png)
+
+
+##### Pré-requisitos
+
+- Conclusão do Nível Super Saiyajin II
 
 #### Módulo 1 - NoSQL
 
@@ -317,11 +361,16 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 - Atomic Fucking Design
 - Programação Reativa
 
-##### Pré-requisitos
 
-- Conclusão do Módulo 3
+
+<br>
+<br>
 
 <hr>
+
+<br>
+<br>
+
 
 ### Super Sayajin IV
 
@@ -331,15 +380,35 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 - Data structures
 
 
+##### Pré-requisitos
+
+- Conclusão do Nível Super Saiyajin III
+
+<br>
+<br>
+
 <hr>
 
+<br>
+<br>
+
+
 ### Super Sayajin V
+
+##### Pré-requisitos
+
+- Conclusão do Nível Super Saiyajin IV
+
+#### Ementa
 
 - Socket.io
 - WebRTC
 - Webtorrent
 - Blockchain
 - Redes Neurais
+
+
+
 
 
 ![](http://i.imgur.com/sqemrMI.jpg)
