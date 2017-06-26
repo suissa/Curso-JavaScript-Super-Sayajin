@@ -154,7 +154,13 @@ Terceiro caso:
 +11 + -46 = - (|-46| - |11|) = - 35
 ```
 
-> A partir desse terceiro caso já matamos a charada!
+<br>
+<br>
+
+> **A partir desse terceiro caso já matamos a charada!**
+
+<br>
+<br>
 
 - soma: 
   - ( x, y ) => x + y 
@@ -237,16 +243,65 @@ Perceba que quebramos uma função que possuía dois parâmetros<br>
 em outras duas funções que recebem apenas um parâmetro cada.
 
 
+<br>
+<br>
 
-> Então agora vamos escrever essa mesma função usando apenas a soma!
+> **Então agora vamos escrever essa mesma função usando apenas a soma!**
+
+<br>
+<br>
+
+Para isso precisamos entender o **algoritmo** da multiplicação:
+
+```
+
+Receba x e y
+Pegue o valor de x e some nele mesmo y vezes.
+
+
+```
+
+Traduzindo para JavaScript:
+
+
+```js
+
+const times = ( y ) => ( x ) => {
+
+  let result = 0
+
+  while ( y > 0 ) { // ( y )
+    result += x
+    y--
+  }
+
+  return result
+}
+
+console.log('3 times 4', times( 4 )( 3 ) )
+
+```
 
 
 ```js
 
 const sum = ( y ) => ( x ) => x + y
 
-const times = ( y ) => ( x ) => ...
+const times = ( y ) => ( x ) => {
 
+  let result = 0
+
+  const sumX = sum( result )
+
+  while ( y > 0 ) { // ( y )
+    result += sumX( x )
+    y--
+  }
+
+  return result
+}
+
+console.log('3 times 4', times( 4 )( 3 ) )
 
 ```
 
