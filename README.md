@@ -7,11 +7,15 @@
 
 > Curso COMPLETO de JavaScript do básico ao avançado trilhando pelo caminho Funcional utilizando ES6.
 
+## Antes do Curso
 
 ![Antes do Curso](http://i.imgur.com/PllOhHs.jpg)
 
+## Depois do Curso
+
 ![Depois do Curso](http://i.imgur.com/D1HX4AP.jpg)
 
+## O Curso
 
 Esse curso, por mais que você odeie, irá iniciar pela Matemática mais básica possível,<br>
 pois EU acredito que a Matemática Discreta é OBRIGATÓRIA para todo o programador, assim como é:<br>
@@ -63,13 +67,13 @@ que você faça será uma função que SEMPRE retornará algo.
 - Super Sayajin IV
 - Super Sayajin V
 
-Antes de falar da ementa de cada um eu quero que você entenda que TODO o conteúdo<br> 
-matemático será voltado para casos reais e eu LHE GARANTO que você usará na sua vida, <br>
+Antes de falar da ementa de cada um eu quero que você entenda que o conteúdo<br> 
+matemático será voltado para casos reais e eu LHE GARANTO que você usará algum dia, <br>
 porém antes você precisa entender como cada operação matemática funciona por trás dos panos, <br>
 depois disso você sempre re-usará as funções previamente criadas, ou seja, para criar a próxima<br>
 função você deverá obrigatóriamente ter criado as anteriores.
 
-#### Pré-requisitos
+## Pré-requisitos
 
 - Usar o cérebro
 - Ensino Médio
