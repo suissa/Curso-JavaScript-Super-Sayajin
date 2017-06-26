@@ -141,11 +141,11 @@ Essas duas funções utilizam o mesmo conjunto de entrada, o conjunto dos númer
   - ( x, y ) => soma( x, -y ) 
   - ( y ) => ( x ) => soma( x )( -y ) 
   + invertendo essa operação
-- multiplicação:
+- multiplicação: ( utilizando apenas a soma )
   - ( x, y ) => x * y 
   - ( y ) => ( x ) => ...
   + invertendo essa operação
-- divisão:
+- divisão: ( utilizando apenas a soma )
   - ( x, y ) => x / y 
   - ( y ) => ( x ) => ...
   + invertendo essa operação
