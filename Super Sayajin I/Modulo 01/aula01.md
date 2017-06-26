@@ -49,7 +49,6 @@ Essas duas funções utilizam o mesmo conjunto de entrada, o conjunto dos númer
 
 ## Entendendo as operações matemáticas básicas
 
-
 > Na lógica matemática e na ciência da computação, lambda cálculo , também escrito como cálculo-λ é um sistema formal que estuda funções recursivas computáveis, no que se refere a teoria da computabilidade, e fenômenos relacionados, como variáveis ligadas e substituição. Sua principal característica são as entidades que podem ser utilizadas como argumentos e retornadas como valores de outras funções.
 > 
 > A parte relevante de lambda cálculo para computação ficou conhecida como lambda cálculo não-tipado. O lambda cálculo tipado e o não-tipado tem suas ideias aplicadas nos campos da lógica, teoria da recursão (computabilidade) e linguística, e tem tido um grande papel no desenvolvimento da teoria de linguagens de programação (com a versão não-tipada sendo a inspiração original para programação funcional, em particular Lisp...
@@ -63,6 +62,15 @@ Essas duas funções utilizam o mesmo conjunto de entrada, o conjunto dos númer
 <br>
 
 ### Reduzindo à apenas uma operação
+
+
+> **Você já pensou que qualquer operação matemática pode ser**<br>
+> **reduzida apenas em soma e subtração???**
+
+
+<br>
+<br>
+
 
 > Vou dar uma dica: pode usar apenas soma e números **negativos**!
 
