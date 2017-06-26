@@ -306,7 +306,7 @@ console.log('timesesult', timesesult)
   + invertendo essa operação
 
 
-Demonstrando com código:
+Vou demonstrar as duas formas de se escrever essas operações:
 
 ```js
 
@@ -327,7 +327,7 @@ const minusParcial = ( y ) => ( x ) => sumParcial( -y )( x )
 
 Caso você ainda não tenha entendido ainda irei demonstrar praticamente.
 
-Imagine que você quer ter uma função que sempre multiple por `2` qualquer valor.
+Imagine que você precise de uma função que sempre multiple por `2` qualquer valor.
 
 ```js
 
@@ -341,9 +341,12 @@ Podemos facilmente criar uma função para reaproveitar isso, dessa forma:
 ```js
 
 const times = ( y ) => ( x ) => x * y
+
 const double = times( 2 )
-const triple = times( 3 )
-const tenTimes = times( 10 )
+
+const doubleResult = double( 5 )
+
+console.log( 'doubleResult', doubleResult ) // doubleResult 10
 
 ```
 
@@ -352,26 +355,51 @@ const tenTimes = times( 10 )
 
 > Agora vamos fazer uma que multiplique por 3 e outra por 10.
 
+
+<br>
+
 ```js
 
 const times = ( y ) => ( x ) => x * y
+
 const double = times( 2 )
 const triple = times( 3 )
 const tenTimes = times( 10 )
+
+const doubleResult = double( 5 )
+const tripleResult = triple( 5 )
+const tenTimesResult = tenTimes( 5 )
+
+console.log( 'doubleResult', doubleResult ) // doubleResult 10
+console.log( 'tripleResult', tripleResult ) // tripleResult 15
+console.log( 'tenTimesResult', tenTimesResult ) // tenTimesResult 50
 
 ```
 
 
 <br>
 
-> **Muito simples né?**
+> **Muito simples reaproveitar essa função, né?!**
 
 Perceba que quebramos uma função que possuía dois parâmetros<br>
 em outras duas funções que recebem apenas um parâmetro cada.
 
+> **Sabe o porquê?**
+
+*ps: Utilizei `o porquê` junto e com acento pois nesse caso ele*<br>
+*tem a função de substantivo,  sinônimo de motivo, razão, causa<br>*
+*e sempre deve vir acompanhado do artigo `o`.*
 
 <br>
+
+> "Já que todas as funções esperando mais de um argumento podem<br> 
+> ser transformadas em funções equivalentes recebendo uma única entrada<br> 
+> (via Currying), o lambda cálculo não tem interesse em criar funções<br> 
+> que aceitam mais de um argumento. "
+
 <br>
+
+
 
 > **Então agora vamos escrever essa mesma função usando apenas a soma!**
 
@@ -456,84 +484,6 @@ A diferença entre esses dois tipos de funções é que as funções de<br>
 *looping* não precisam de uma estrutura de dados como base para iterar.
 Já as de iteração necessitam de uma estrutura iterável.
 
-Mostrai o mesmo exemplo com algumas dessas funções.
-
-Imagine que temos um *Array* de Objetos e precisamos antes de somar<br>
-os salários retirar 10% do valor de cada um e depois fazer uma média.
-
-```js
-
-const workers = [ 1000, 2500 , 10000 ]
-
-const withdraw = ( list, percent ) => {
-
-  let counter = 0
-  let newList = []
-
-  while ( counter < list.length) {
-    const percentValue = list[ counter ] * ( percent / 100 )
-    const newSalary = list[ counter ] - percentValue
-
-    newList[ counter ] = newSalary 
-    counter++
-  }
-
-  return newList
-}
-
-console.log( 'New Salaries: ', withdraw( workers, 10 ) )
-
-```
-
-No código acima nós apenas criamos um *Array* novo com os valores<br>
-dos valores calculados pela nossa função
-
-```js
-
-const workers = [ 1000, 2500 , 10000 ]
-
-const sumAll = ( list, percent ) => {
-
-  let counter = 0
-  let total = 0
-
-  while ( counter < list.length) {
-    const percentValue = list[ counter ] * ( percent / 100 )
-    const newSalary = list[ counter ] - percentValue
-
-    total += newSalary 
-    counter++
-  }
-
-  return total
-}
-
-console.log( 'Sum of Salaries: ', sumAll( workers, 10 ) )
-
-```
-
-### Lembrete 1
-
-> Percebeu que não criamos **funções** porém não criamos nenhuma constante <br>
-> para os valores que passaremos como parâmetro?
-
-Isso se deve graças a dois conceitos que são obrigatórios para uma linguagem <br> estar contida no Paradigma Funcional:
-
-- [First-class Function]()
-- [High-Order Function]()
-
-**Falarei melhor sobre esses conceitos na próxima aula!**
-
-## Desafio
-
-Criar a função de divisão utilizando apenas a função de soma, <br>
-onde ela receba 2 valores inteiros e consiga retornar um <br>
-valor decimal. Por exemplo: `5 / 2 = 2.5`
-
-Além disso explique como dois valores do conjunto dos Números Naturais<br>
-transformou-se em um valor que não está contido nesse grupo e qual o grupo que ele pertence.
-
-> **Lembrando que a ÚNICA função aceita dentro da divisão será a da soma!**
 
 
 
@@ -542,18 +492,91 @@ transformou-se em um valor que não está contido nesse grupo e qual o grupo que
 
 ![](http://i.imgur.com/kPZOvNa.png)
 
-Como demonstrei anterioremente, utilizamos funções<br>
-anônimas, que definimos em constantes, pois isso nos remetei ao [Cálculo lambda](https://pt.wikipedia.org/wiki/C%C3%A1lculo_lambda) que é a base da <br>
-Programação Funcional.
+Como demonstrei anterioremente, utilizamos funções anônimas, <br> 
+que definimos em constantes, pois isso nos remete às Expressões Lambdas <br> 
+que são a base da Programação Funcional.
+
+> "Como os nomes de funções são uma mera conveniência, o lambda cálculo <br>  
+> não tem interesse em nomear uma função."
+
+*fonte: [O lambda cálculo - Wikipedia](https://pt.wikipedia.org/wiki/C%C3%A1lculo_lambda)*
 
 Logo preciso também lhe mostrar do outro jeito, usando `function`.
 
 > Por isso a `function` está na seção ***Oozaru***! Pois você pode<br>
 > usar mas **EU** não lhe aconselho.
-> 
+
 
 
 <br>
+
+Utilizando nosso último exemplo podemos escrever assim:
+
+
+```js
+
+function sum ( y ) {
+  return function  ( x ) { 
+    return x + y 
+  }
+}
+
+function times ( y ) {
+  return function  ( x ) { 
+    let result = 0
+
+    const sumX = sum( result )
+
+    while ( y > 0 ) { // ( y )
+      result += sumX( x )
+      y--
+    }
+
+    return result
+  }
+}
+
+console.log('3 times 4', times( 4 )( 3 ) )
+
+```
+
+<br>
+
+Esse tipo de função acima é conhecida como **nomeada**, pois você<br>
+definiu um nome diretamente para ela, mas nós também podemos escrever<br>
+como se elas fossem funções anônimas desse jeito:
+
+```js
+
+const sum = function ( y ) {
+  return function  ( x ) { 
+    return x + y 
+  }
+}
+
+const times = function ( y ) {
+  return function  ( x ) { 
+    let result = 0
+
+    const sumX = sum( result )
+
+    while ( y > 0 ) { // ( y )
+      result += sumX( x )
+      y--
+    }
+
+    return result
+  }
+}
+
+console.log('3 times 4', times( 4 )( 3 ) )
+
+```
+
+<br>
+
+> **Ficou MUITOOOO maior nosso código, né?!**
+
 <hr>
 <br>
 
