@@ -95,7 +95,6 @@ Primeiro caso:
 
 
 ```
-Exemplos:
 -12 + -8 = - (12 + 8) = - 20
 -10 + -16 = - (10 + 16) = - 26
 -15 + -2 = - (15 + 2) = - 17
@@ -108,7 +107,6 @@ Segundo caso:
 > Quando temos dois números positivos repetimos o sinal de adição e somamos esses dois números. 
 
 ```
-Exemplos:
 +12 + 8 = + (12 + 8) = + 20
 +10 + 16 = + (10 + 16) = + 26
 +15 + 2 = + (15 + 2) = + 17
@@ -122,8 +120,8 @@ Terceiro caso:
 
 > O módulo de um número nada mais é do que pegar o valor positivo desse número. O módulo é representado por duas barras dispostas uma no início e outra no fim do número. |-2| === 2
 
+
 ```
-Exemplos:
 +12 + -8 = + (|12| - |-8|) = - 20 
 +10 + -16 = - (|-16| - |10|) = - 6
 +15 + -2 = + (|15| - |-2|) = + 13
@@ -161,14 +159,16 @@ const minusParcial = ( y ) => ( x ) => sumParcial( -y )( x )
 
 ```
 
-> **Entendeu o porquê estou mostrando como criar essas operações<br>
-básicas onde recebo apenas um parâmetro por vez?**
+> **Entendeu o porquê estou mostrando como criar essas operações**<br>
+**básicas onde recebo apenas um parâmetro por vez?**
+
+> Lembrando que nós só poderemos usar funções que re-usem outras!
 
 <br>
 
-Caso você ainda não tenha entendido irei demonstrar praticamente.
+Caso você ainda não tenha entendido ainda irei demonstrar praticamente.
 
-Imagine que você quer ter uma função que sempre multiple por `2` algum valor.
+Imagine que você quer ter uma função que sempre multiple por `2` qualquer valor.
 
 ```js
 
