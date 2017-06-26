@@ -140,7 +140,15 @@ const times = ( y ) => ( x ) => ...
 
 ```
 
+### Lembrete 1
 
+> Percebeu que não criamos **funções** porém não criamos nenhuma constante <br>
+> para os valores que passaremos como parâmetro?
+
+Isso se deve graças a dois conceitos que são obrigatórios para uma linguagem <br> estar contida no Paradigma Funcional:
+
+- [First-class Function]()
+- [High-Order Function]()
 
 ## Desafio
 
