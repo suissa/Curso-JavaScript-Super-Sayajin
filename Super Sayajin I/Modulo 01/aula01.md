@@ -1,93 +1,8 @@
 ![Curso - JavaScript Super Saiyajin](http://i.imgur.com/jGXoRO6.png)
 
+# Aula 01 - Conhecendo funções
 
-# Super Sayajin I
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss1.jpg">
-</p>
-
-## Módulo 1 - Funções e Lógica
-
-Nesse módulo ensinarei como você irá traduzir seu conhecimento prévio, <br>
-principalmente em Matemática do Ensino Médio, em JavaScript Funcional.
-
-Esse módulo É **OBRIGATÓRIO** para quem:
-
-- Não saiba a definição de função e/ou conjunto;
-- Não sabe como compor operações matemáticas complexas usando apenas soma e números negativos;
-- Não tem lógica matemática forte
-
-
-### Conteúdo
-
-#### Matemática Discreta
-
-Vamos aprender como criar TODAS as operações mais utilizadas na Matemática<br>
-e como trabalhar com o tipo `Number`, para isso inciaremos direto na função, <br>
-para que o aluno entenda que esse é o conceito mais importante que ele precisa.
-
-As primeiras funções irão utilizar os números passados por parâmetro para que ele<br>
-não precise iniciar nenhuma constante que não seja a função, só depois disso que você<br>
-aprenderá a trabalhar com o tipo `Number`, encapsulando e usando suas principais funções.
-
-Depois iremos aprender a parte de coleções de números e conjuntos, onde emularemos<br>
-o conceito de conjutos com `Array` e `Set`, pois o `Set` não possui NENHUMA das operações<br>
-de conjuntos, como: adição, subtração e intersecção.
-
-##### Conceitos
-
-- Constante;
-  - nada de `var` **aqui!**
-- Função;
-  - sempre pura!
-- Números;
-- Operações matemáticas:
-  - soma, subtração, multiplicação, divisão, exponenciação e radiciação;
-  - todas baseadas apenas na soma;
-- Boolean;
-- Lógica: matemática e booleana;
-- Conjuntos;
-- Operaçes com Conjuntos;
-- Física: como inferir fórmulas baseando-se em conceitos.
-
-##### JavaScript
-
-- `while`/`for`;
-- `Function`;
-- `Number`;
-- `Array`;
-- `Set`.
-
-#### Pré-requisitos
-
-- Ensino Médio (cursando ou completo)
-- Não ter medo da Matemática pq ela é uma LINDA!
-
-#### Artigo
-
-Sim além dos exercícios que serão passados em cada aula ainda teremos **pelo menos** <br>
-um artigo sobre algum dos temas abordados.
-
-
-#### Projeto Final
-
-Criação de uma calculadora com o máximo possível de funções matemáticas e físicas, cada aluno<br>
-deverá criar pelo menos 2 funções novas.
-
-
-
-<br>
-
-<hr>
-
-<br>
-
-### Aulas
-
-#### Aula 01 - Conhecendo funções anônimas
-
-##### O que é uma função?
+## O que é uma função?
 
 <br>
 
@@ -132,7 +47,7 @@ Essas duas funções utilizam o mesmo conjunto de entrada, o conjunto dos númer
 
 
 
-##### Entendendo as operações matemáticas básicas
+## Entendendo as operações matemáticas básicas
 
 - soma: 
   - ( x, y ) => x + y 
@@ -177,18 +92,6 @@ const double = ( x ) => x * 2
 
 ```
 
-> Muito fácil né?
-> 
-> Agora vamos fazer uma que multiplique por 3 e outra por 10.
-
-```js
-
-const double = ( x ) => x * 2
-const triple = ( x ) => x * 3
-const tenTimes = ( x ) => x * 10
-
-```
-
 Podemos facilmente criar uma função para reaproveitar isso, dessa forma:
 
 
@@ -201,8 +104,45 @@ const tenTimes = times( 10 )
 
 ```
 
+<br>
 
-##### Desafio
+
+> Agora vamos fazer uma que multiplique por 3 e outra por 10.
+
+```js
+
+const times = ( y ) => ( x ) => x * y
+const double = times( 2 )
+const triple = times( 3 )
+const tenTimes = times( 10 )
+
+```
+
+
+<br>
+
+> **Muito simples né?**
+
+Perceba que quebramos uma função que possuía dois parâmetros<br>
+em outras duas funções que recebem apenas um parâmetro cada.
+
+
+
+> Então agora vamos escrever essa mesma função usando apenas a soma!
+
+
+```js
+
+const sum = ( y ) => ( x ) => x + y
+
+const times = ( y ) => ( x ) => ...
+
+
+```
+
+
+
+## Desafio
 
 Criar a função de divisão utilizando apenas a função de soma, <br>
 onde ela receba 2 valores inteiros e consiga retornar um <br>
