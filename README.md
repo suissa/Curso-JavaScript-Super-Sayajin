@@ -65,11 +65,11 @@ que você faça será uma função que SEMPRE retornará algo.
 
 <img src="https://media.giphy.com/media/KdzF8XLE3FwXe/giphy.gif">
 
-- Super Sayajin I
-- Super Sayajin II
-- Super Sayajin III
-- Super Sayajin IV
-- Super Sayajin V
+- **Super Sayajin I**
+- **Super Sayajin II**
+- **Super Sayajin III**
+- **Super Sayajin IV**
+- **Super Sayajin V**
 
 Antes de falar da ementa de cada um eu quero que você entenda que o conteúdo<br> 
 matemático será voltado para casos reais e eu LHE GARANTO que você usará algum dia, <br>
