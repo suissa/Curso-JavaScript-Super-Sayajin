@@ -282,6 +282,7 @@ console.log('3 times 4', times( 4 )( 3 ) )
 
 ```
 
+#### Reduzindo a multiplicação para a soma
 
 ```js
 
@@ -302,6 +303,85 @@ const times = ( y ) => ( x ) => {
 }
 
 console.log('3 times 4', times( 4 )( 3 ) )
+
+```
+
+<br>
+<br>
+
+> **Conseguiu entender o [`while`](http://mdn.io/while)?**
+
+<br>
+<br>
+
+Ele é uma função de *looping* assim como o [`for`]() e o [`do while`], porém<br>
+é diferente de funções iteradoras como:
+
+- [map](http://mdn.io/map);
+- [filter](http://mdn.io/filter);
+- [reduce](http://mdn.io/reduce);
+- [forEach](http://mdn.io/forof);
+- [for in](http://mdn.io/forin);
+- [for of](http://mdn.io/forof);
+- etc
+
+A diferença entre esses dois tipos de funções é que as funções de<br>
+*looping* não precisam de uma estrutura de dados como base para iterar.
+Já as de iteração necessitam de uma estrutura iterável.
+
+Mostrai o mesmo exemplo com algumas dessas funções.
+
+Imagine que temos um *Array* de Objetos e precisamos antes de somar<br>
+os salários retirar 10% do valor de cada um e depois fazer uma média.
+
+```js
+
+const workers = [ 1000, 2500 , 10000 ]
+
+const withdraw = ( list, percent ) => {
+
+  let counter = 0
+  let newList = []
+
+  while ( counter < list.length) {
+    const percentValue = list[ counter ] * ( percent / 100 )
+    const newSalary = list[ counter ] - percentValue
+
+    newList[ counter ] = newSalary 
+    counter++
+  }
+
+  return newList
+}
+
+console.log( 'New Salaries: ', withdraw( workers, 10 ) )
+
+```
+
+No código acima nós apenas criamos um *Array* novo com os valores<br>
+dos valores calculados pela nossa função
+
+```js
+
+const workers = [ 1000, 2500 , 10000 ]
+
+const sumAll = ( list, percent ) => {
+
+  let counter = 0
+  let total = 0
+
+  while ( counter < list.length) {
+    const percentValue = list[ counter ] * ( percent / 100 )
+    const newSalary = list[ counter ] - percentValue
+
+    total += newSalary 
+    counter++
+  }
+
+  return total
+}
+
+console.log( 'Sum of Salaries: ', sumAll( workers, 10 ) )
 
 ```
 
