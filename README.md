@@ -434,7 +434,7 @@ Para contribuir abra um [Issue](https://github.com/suissa/Curso-JavaScript-Super
 - Blockchain
 - Redes Neurais
 
-![](http://i.imgur.com/sqemrMI.jpg)~
+![](http://i.imgur.com/sqemrMI.jpg)
 
 <br>
 <br>
