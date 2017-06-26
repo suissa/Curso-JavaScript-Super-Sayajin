@@ -3,8 +3,6 @@
 
 # Curso - JavaScript Super Saiyajin
 
-*depois de criar que percebi que faltou um i em Saiyajin*
-
 > Curso COMPLETO de JavaScript do básico ao avançado trilhando pelo caminho Funcional utilizando ES6.
 
 ## Antes do Curso
@@ -160,7 +158,7 @@ Depois iremos aprender a parte de coleções de números e conjuntos, onde emula
 o conceito de conjutos com `Array` e `Set`, pois o `Set` não possui NENHUMA das operações<br>
 de conjuntos, como: adição, subtração e intersecção.
 
-###### Conceitos
+#### Conceitos
 
 - Constante;
   - nada de `var` **aqui!**
@@ -176,7 +174,7 @@ de conjuntos, como: adição, subtração e intersecção.
 - Operaçes com Conjuntos;
 - Física: como inferir fórmulas baseando-se em conceitos.
 
-###### JavaScript
+#### JavaScript
 
 - `while`/`for`;
 - `Function`;
@@ -218,12 +216,12 @@ e muito provavelmente no futuro a programação seja mais probabilística do que
 Com isso você aprenderá a organizar seus dados e retirar informações em cima de um conjunto<br>
 de dados numéricos.
 
-###### Objetivo
+#### Objetivo
 
 Construir uma calculadora, via API, com a maiorias das funções de Matemática Estatística utilizadas<br>
 pela Inteligência Artificial para que não precisemos depender do *Python* ou *R* para isso.
 
-###### Conceitos
+#### Conceitos
 
 - Recursividade;
 - Métodos de Matriz;
@@ -234,7 +232,7 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 - Organização e estruturação dos dados;
 - etc.
 
-##### Química
+#### Química
 
 - Estruturação dos dados dos átomos;
 - Estruturação dos dados das moléculas;
@@ -243,7 +241,7 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 - Balanceamento de Reações;
 - Cálculo de Lei de Hess.
 
-###### JavaScript
+#### JavaScript
 
 - `let`;
 - `map`/`filter`/`reduce`/`concat`/etc;
@@ -251,7 +249,7 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 - `Math`;
 - `Symbol`.
 
-##### Projeto Final
+#### Projeto Final
 
 
 [Uma Tabela Periódica diferente utilizando-se UX e API](https://github.com/Webschool-io/Elementos-Quimica).
@@ -267,11 +265,11 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 ##### Super Saiyajin Dai San Dankai (超サイヤ人第3段階)
 
 
-##### Pré-requisitos
+#### Pré-requisitos
 
 - Conclusão do Módulo 2
 
-##### Química
+#### Química
 
 - Estruturação dos dados dos átomos;
 - Estruturação dos dados das moléculas;
@@ -280,9 +278,9 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 - Balanceamento de Reações;
 - Cálculo de Lei de Hess.
 
-###### JavaScript
+#### JavaScript
 
-###### Projeto Final
+#### Projeto Final
 
 Para sugerir um projeto final para esse módulo, abra uma [Issue](https://github.com/suissa/Curso-JavaScript-Super-Sayajin/issues) nesse repositório.
 
@@ -300,7 +298,7 @@ Para sugerir um projeto final para esse módulo, abra uma [Issue](https://github
 Nesse módulo aprenderemos como o JavaScript funciona por trás das cortinas, tanto<br> 
 no navegador como no Node.js
 
-###### JavaScript
+#### JavaScript
 
 - Async
 - Call Stack
@@ -309,7 +307,7 @@ no navegador como no Node.js
 - Promises
 - Prototype
 
-###### Projeto Final
+#### Projeto Final
 
 Para sugerir um projeto final para esse módulo, abra uma [Issue](https://github.com/suissa/Curso-JavaScript-Super-Sayajin/issues) nesse repositório.
 
@@ -326,7 +324,7 @@ Para sugerir um projeto final para esse módulo, abra uma [Issue](https://github
 
 ![](https://vignette1.wikia.nocookie.net/dragonball/images/d/d8/Goku_SSJ2_Artwork.png/revision/latest?cb=20160820231336&path-prefix=es)
 
-##### Pré-requisitos
+#### Pré-requisitos
 
 - Conclusão do Nível Super Saiyajin I
 
@@ -358,7 +356,7 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 ![](http://pre13.deviantart.net/a8e4/th/pre/i/2016/361/f/7/son_goku_super_saiyan_3__2_by_nekoar-dat2zkq.png)
 
 
-##### Pré-requisitos
+#### Pré-requisitos
 
 - Conclusão do Nível Super Saiyajin II
 
@@ -387,7 +385,7 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 
 ### Super Sayajin IV
 
-##### Pré-requisitos
+#### Pré-requisitos
 
 - Conclusão do Nível Super Saiyajin III
 
@@ -412,7 +410,7 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 
 ### Super Sayajin V
 
-##### Pré-requisitos
+#### Pré-requisitos
 
 - Conclusão do Nível Super Saiyajin IV
 
@@ -426,21 +424,21 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 
 ![](http://i.imgur.com/sqemrMI.jpg)~
 
-### Certificado
+## Certificado
 
 O aluno receberá um certificado mediante a entrega de todos os requisitos obrigatórios.
 
-### Forma de pagamento
+## Forma de pagamento
 
 Será feito via depósito diretamente na conta do professor. O valor de investimento do curso é 35R$.
 
-### Exercícios
+## Exercícios
 
 
-### Suporte
+## Suporte
 
 O curso conta com o suporte da própria comunidade e também dos professores da Webschool através do [Telegram](https://t.me/forumwebschool) e do nosso [Fórum](https://github.com/Webschool-io/forum). Vamos utilizar as Issues nosso repositorio [Fórum](https://github.com/Webschool-io/forum) para poder documentar as duvidas, assim podendo manter um histórico que possa ajudar outras pessoas que venham a ter a mesma dúvida que você. Além disso o nosso fórum e conectado com o grupo do telegram para que sua dúvida possa ser respondida facilmente.
 
-### Apoio
+## Apoio
 
 Entre em contato para apoiar esse curso.
