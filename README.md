@@ -3,8 +3,6 @@
 
 # Curso - JavaScript Super Saiyajin
 
-*depois de criar que percebi que faltou um i em Saiyajin*
-
 > Curso COMPLETO de JavaScript do básico ao avançado trilhando pelo caminho Funcional utilizando ES6.
 
 ## Antes do Curso
@@ -102,7 +100,11 @@ Como teve uma busca enorme e em no máximo 4 dias estamos chegando em 100 inscri
 ![](http://img06.deviantart.net/2674/i/2015/214/7/5/vegeta_super_saiyan_god_super_saiyan_3_by_dgkilla95-d93xztn.jpg)
 
 <br>
+<br>
+
 <hr>
+
+<br>
 <br>
 
 ## Início
@@ -112,11 +114,13 @@ Como teve uma busca enorme e em no máximo 4 dias estamos chegando em 100 inscri
 
 ## Inscrição
 
-Para se inscrever basta abrir uma issue nesse repositório com seus seguintes dados:
+Para se inscrever basta abrir uma [Issue](https://github.com/suissa/Curso-JavaScript-Super-Sayajin/issues) nesse repositório com seus seguintes dados:
 
-Email
-Facebook/Twitter
-Telegram
+- Email
+- Facebook/Twitter
+- Telegram
+
+Que entrarei em contato para passar a forma de pagamento. 
 
 <br>
 <br>
@@ -132,6 +136,13 @@ Telegram
 
 #### Módulo 1 - Funções e Lógica
 
+#### Pré-requisitos
+
+- Ensino Médio (cursando ou completo)
+- Não ter medo da Matemática pq ela é uma LINDA!
+
+#### Objetivo
+
 Nesse módulo ensinarei como você irá traduzir seu conhecimento prévio, <br>
 principalmente em Matemática do Ensino Médio, em JavaScript Funcional.
 
@@ -141,10 +152,7 @@ Esse módulo É **OBRIGATÓRIO** para quem:
 - Não sabe como compor operações matemáticas complexas usando apenas soma e números negativos;
 - Não tem lógica matemática forte
 
-
-#### Tópicos
-
-##### Matemática Discreta
+#### Matemática
 
 Vamos aprender como criar TODAS as operações mais utilizadas na Matemática<br> 
 e como trabalhar com o tipo `Number`, para isso inciaremos direto na função, <br>
@@ -158,7 +166,7 @@ Depois iremos aprender a parte de coleções de números e conjuntos, onde emula
 o conceito de conjutos com `Array` e `Set`, pois o `Set` não possui NENHUMA das operações<br>
 de conjuntos, como: adição, subtração e intersecção.
 
-###### Conceitos
+#### Conceitos
 
 - Constante;
   - nada de `var` **aqui!**
@@ -174,18 +182,13 @@ de conjuntos, como: adição, subtração e intersecção.
 - Operaçes com Conjuntos;
 - Física: como inferir fórmulas baseando-se em conceitos.
 
-###### JavaScript
+#### JavaScript
 
 - `while`/`for`;
 - `Function`;
 - `Number`;
 - `Array`;
 - `Set`.
-
-#### Pré-requisitos
-
-- Ensino Médio (cursando ou completo)
-- Não ter medo da Matemática pq ela é uma LINDA!
 
 #### Artigo
 
@@ -198,12 +201,12 @@ um artigo sobre algum dos temas abordados.
 Criação de uma calculadora com o máximo possível de funções matemáticas e físicas, cada aluno<br> 
 deverá criar pelo menos 2 funções novas.
 
-
-
+<br>
 <br>
 
 <hr>
 
+<br>
 <br>
 
 #### Módulo 2 - Estatística & Estrutura de Dados 
@@ -216,12 +219,17 @@ e muito provavelmente no futuro a programação seja mais probabilística do que
 Com isso você aprenderá a organizar seus dados e retirar informações em cima de um conjunto<br>
 de dados numéricos.
 
-###### Objetivo
+#### Pré-requisitos
+
+- Ensino Médio (cursando ou completo)
+- Não ter medo da Matemática pq ela é uma LINDA!
+
+#### Objetivo
 
 Construir uma calculadora, via API, com a maiorias das funções de Matemática Estatística utilizadas<br>
 pela Inteligência Artificial para que não precisemos depender do *Python* ou *R* para isso.
 
-###### Conceitos
+#### Conceitos
 
 - Recursividade;
 - Métodos de Matriz;
@@ -232,7 +240,7 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 - Organização e estruturação dos dados;
 - etc.
 
-##### Química
+#### Química
 
 - Estruturação dos dados dos átomos;
 - Estruturação dos dados das moléculas;
@@ -241,7 +249,7 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 - Balanceamento de Reações;
 - Cálculo de Lei de Hess.
 
-###### JavaScript
+#### JavaScript
 
 - `let`;
 - `map`/`filter`/`reduce`/`concat`/etc;
@@ -249,27 +257,27 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 - `Math`;
 - `Symbol`.
 
-##### Projeto Final
-
+#### Projeto Final
 
 [Uma Tabela Periódica diferente utilizando-se UX e API](https://github.com/Webschool-io/Elementos-Quimica).
 
-
-
+<br>
 <br>
 
 <hr>
+
+<br>
 <br>
 
 #### Módulo 3 - Biologia e Arquitetura de API
 ##### Super Saiyajin Dai San Dankai (超サイヤ人第3段階)
 
 
-##### Pré-requisitos
+#### Pré-requisitos
 
 - Conclusão do Módulo 2
 
-##### Química
+#### Química
 
 - Estruturação dos dados dos átomos;
 - Estruturação dos dados das moléculas;
@@ -278,17 +286,19 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 - Balanceamento de Reações;
 - Cálculo de Lei de Hess.
 
-###### JavaScript
+#### JavaScript
 
+#### Projeto Final
 
+Para sugerir um projeto final para esse módulo, abra uma [Issue](https://github.com/suissa/Curso-JavaScript-Super-Sayajin/issues) nesse repositório.
 
-
+<br>
 <br>
 
 <hr>
 
 <br>
-
+<br>
 
 #### Módulo 4 - O JavaScript nú
 ##### Super Saiyajin Full Power (超サイヤ人フルパワ)
@@ -296,7 +306,7 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 Nesse módulo aprenderemos como o JavaScript funciona por trás das cortinas, tanto<br> 
 no navegador como no Node.js
 
-###### JavaScript
+#### JavaScript
 
 - Async
 - Call Stack
@@ -305,6 +315,9 @@ no navegador como no Node.js
 - Promises
 - Prototype
 
+#### Projeto Final
+
+Para sugerir um projeto final para esse módulo, abra uma [Issue](https://github.com/suissa/Curso-JavaScript-Super-Sayajin/issues) nesse repositório.
 
 <br>
 <br>
@@ -318,7 +331,15 @@ no navegador como no Node.js
 
 ![](https://vignette1.wikia.nocookie.net/dragonball/images/d/d8/Goku_SSJ2_Artwork.png/revision/latest?cb=20160820231336&path-prefix=es)
 
-Vários conceitos teóricos da Programação Funcional serão explicados e implementados, como:
+#### Pré-requisitos
+
+- Conclusão do Nível Super Saiyajin I
+
+#### Objetivo
+
+Esse nível vai apresentar vários conceitos teóricos da Programação Funcional serão explicados e implementados.
+
+#### Ementa
 
 - Aridade
 - Immutable data
@@ -330,12 +351,6 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 - TCO
 - [FantasyLand](https://github.com/fantasyland/fantasy-land)
 
-
-##### Pré-requisitos
-
-- Conclusão do Nível Super Saiyajin I
-
-
 <br>
 <br>
 
@@ -344,15 +359,17 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 <br>
 <br>
 
-
 ### Super Sayajin III
 
 ![](http://pre13.deviantart.net/a8e4/th/pre/i/2016/361/f/7/son_goku_super_saiyan_3__2_by_nekoar-dat2zkq.png)
 
-
-##### Pré-requisitos
+#### Pré-requisitos
 
 - Conclusão do Nível Super Saiyajin II
+
+#### Objetivo
+
+Para contribuir abra um [Issue](https://github.com/suissa/Curso-JavaScript-Super-Sayajin/issues)
 
 #### Módulo 1 - NoSQL
 
@@ -366,8 +383,6 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 - Atomic Fucking Design
 - Programação Reativa
 
-
-
 <br>
 <br>
 
@@ -376,19 +391,23 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 <br>
 <br>
 
-
 ### Super Sayajin IV
+
+#### Pré-requisitos
+
+- Conclusão do Nível Super Saiyajin III
+
+#### Objetivo
+
+Para contribuir abra um [Issue](https://github.com/suissa/Curso-JavaScript-Super-Sayajin/issues)
+
+#### Ementa
 
 - Teoria das Categorias
 - Point-free programming, 
 - Morphisms, 
 - Data structures
 
-
-##### Pré-requisitos
-
-- Conclusão do Nível Super Saiyajin III
-
 <br>
 <br>
 
@@ -397,12 +416,15 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 <br>
 <br>
 
-
 ### Super Sayajin V
 
-##### Pré-requisitos
+#### Pré-requisitos
 
 - Conclusão do Nível Super Saiyajin IV
+
+#### Objetivo
+
+Para contribuir abra um [Issue](https://github.com/suissa/Curso-JavaScript-Super-Sayajin/issues)
 
 #### Ementa
 
@@ -412,18 +434,21 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 - Blockchain
 - Redes Neurais
 
+![](http://i.imgur.com/sqemrMI.jpg)
 
+<br>
+<br>
 
+<hr>
 
+<br>
+<br>
 
-![](http://i.imgur.com/sqemrMI.jpg)~
-
-### Certificado
+## Certificado
 
 O aluno receberá um certificado mediante a entrega de todos os requisitos obrigatórios.
 
-
-# Forma de pagamento
+## Forma de pagamento
 
 Será feito via depósito diretamente na conta do professor. O valor de investimento do curso é 35R$.
 
