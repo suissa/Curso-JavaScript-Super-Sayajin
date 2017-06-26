@@ -416,4 +416,24 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 
 
 
-![](http://i.imgur.com/sqemrMI.jpg)
+![](http://i.imgur.com/sqemrMI.jpg)~
+
+### Certificado
+
+O aluno receberá um certificado mediante a entrega de todos os requisitos obrigatórios.
+
+
+# Forma de pagamento
+
+Será feito via depósito diretamente na conta do professor. O valor de investimento do curso é 35R$.
+
+## Exercícios
+
+
+## Suporte
+
+O curso conta com o suporte da própria comunidade e também dos professores da Webschool através do [Telegram](https://t.me/forumwebschool) e do nosso [Fórum](https://github.com/Webschool-io/forum). Vamos utilizar as Issues nosso repositorio [Fórum](https://github.com/Webschool-io/forum) para poder documentar as duvidas, assim podendo manter um histórico que possa ajudar outras pessoas que venham a ter a mesma dúvida que você. Além disso o nosso fórum e conectado com o grupo do telegram para que sua dúvida possa ser respondida facilmente.
+
+## Apoio
+
+Entre em contato para apoiar esse curso.
