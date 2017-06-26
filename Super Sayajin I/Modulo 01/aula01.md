@@ -150,6 +150,8 @@ Isso se deve graças a dois conceitos que são obrigatórios para uma linguagem 
 - [First-class Function]()
 - [High-Order Function]()
 
+**Falarei melhor sobre esses conceitos na próxima aula!**
+
 ## Desafio
 
 Criar a função de divisão utilizando apenas a função de soma, <br>
