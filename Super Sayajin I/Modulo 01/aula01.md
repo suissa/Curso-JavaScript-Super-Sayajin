@@ -105,20 +105,23 @@ Então vamos pensar:
 5+4=9
 5+(-4)=1 
 ```
+<br>
 
 É nessa hora que você lembra do Ensino Médio e a regra de sinais:
 
-> número negativo com número negativo (1° caso)
+- número negativo com número negativo (1° caso)
 
-> número positivo com número positivo (2° caso)
+- número positivo com número positivo (2° caso)
 
-> número negativo com número positivo ou vice-versa (3° caso)
+- número negativo com número positivo ou vice-versa (3° caso)
 
 
 Primeiro caso:
 
-> Quando temos dois números negativos repetimos o sinal de subtração e somamos esses dois números. 
+> Quando temos dois números negativos repetimos o sinal de <br>
+subtração e somamos esses dois números. 
 
+<br>
 
 ```
 -12 + -8 = - (12 + 8) = - 20
@@ -127,10 +130,12 @@ Primeiro caso:
 -11 + -46 = - (11 + 46) = - 57
 ```
 
+<br>
 
 Segundo caso:
 
-> Quando temos dois números positivos repetimos o sinal de adição e somamos esses dois números. 
+> Quando temos dois números positivos repetimos o sinal de adição <br>
+ e somamos esses dois números. 
 
 ```
 +12 + 8 = + (12 + 8) = + 20
@@ -160,6 +165,55 @@ Terceiro caso:
 > **A partir desse terceiro caso já matamos a charada!**
 
 <br>
+<br>
+
+Agora eu lhe pergunto:
+
+> **Por que um número negativo somado com outro negativo da positivo?**
+
+
+<br>
+<br>
+
+Vamos imaginar o seguinte:
+
+Na lógica possuimos o operador de negação, que apenas **inverte** um valor,<br>
+por exemplo: `!false === true`.
+
+Até ai tudo bem né? Agora vamos estender esse conceito para os números.
+
+Imagine que a negação de um número é o seu inverso e qual o inverso de 4?
+
+Se formos pegar o plano cartesiano no eixo x, o valor de algo é a sua<br>
+distância até o ponto `0` nesse eixo. Logo se quisermos inverter esse valor<br>
+basta pegarmos essa mesma distância e partirmos do `0` até o valor dessa<br>
+distância porém seguindo o eixo x negativo.
+
+> Simples não???
+
+Então agora pense aqui comigo:
+
+```
+
+-10 + -4 = -14
+~10 + ~4 = ~(10 + 4) = ~(14) = -14
+10x + 4x = 14x = -14
+
+-10 * -4 = 40
+~10 * ~4 = ~ * ~(10 * 4) = ~^2(40) = 40
+10x * 4x = 40x^2 = 40
+
+```
+
+<br>
+
+Perceba que neguei o valor dos valores negativos e depois troquei esse<br>
+operador de negação pelo `x` para poder provar logica-matematicamente.
+
+Na soma `10x + 4x` o resultado é `14x` e na multiplicação é `40x^2`<br>
+sabendo que o `x` é a negação então na soma ele apenas nega o valor e<br>
+na multiplicação ele nega a negação, pois temos duas negações.
+
 <br>
 
 - soma: 
