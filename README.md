@@ -100,7 +100,11 @@ Como teve uma busca enorme e em no máximo 4 dias estamos chegando em 100 inscri
 ![](http://img06.deviantart.net/2674/i/2015/214/7/5/vegeta_super_saiyan_god_super_saiyan_3_by_dgkilla95-d93xztn.jpg)
 
 <br>
+<br>
+
 <hr>
+
+<br>
 <br>
 
 ## Início
@@ -197,12 +201,12 @@ um artigo sobre algum dos temas abordados.
 Criação de uma calculadora com o máximo possível de funções matemáticas e físicas, cada aluno<br> 
 deverá criar pelo menos 2 funções novas.
 
-
-
+<br>
 <br>
 
 <hr>
 
+<br>
 <br>
 
 #### Módulo 2 - Estatística & Estrutura de Dados 
@@ -255,14 +259,14 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 
 #### Projeto Final
 
-
 [Uma Tabela Periódica diferente utilizando-se UX e API](https://github.com/Webschool-io/Elementos-Quimica).
 
-
-
+<br>
 <br>
 
 <hr>
+
+<br>
 <br>
 
 #### Módulo 3 - Biologia e Arquitetura de API
@@ -288,13 +292,13 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 
 Para sugerir um projeto final para esse módulo, abra uma [Issue](https://github.com/suissa/Curso-JavaScript-Super-Sayajin/issues) nesse repositório.
 
-
+<br>
 <br>
 
 <hr>
 
 <br>
-
+<br>
 
 #### Módulo 4 - O JavaScript nú
 ##### Super Saiyajin Full Power (超サイヤ人フルパワ)
@@ -315,7 +319,6 @@ no navegador como no Node.js
 
 Para sugerir um projeto final para esse módulo, abra uma [Issue](https://github.com/suissa/Curso-JavaScript-Super-Sayajin/issues) nesse repositório.
 
-
 <br>
 <br>
 
@@ -332,9 +335,11 @@ Para sugerir um projeto final para esse módulo, abra uma [Issue](https://github
 
 - Conclusão do Nível Super Saiyajin I
 
-#### Ementa
+#### Objetivo
 
-Vários conceitos teóricos da Programação Funcional serão explicados e implementados, como:
+Esse nível vai apresentar vários conceitos teóricos da Programação Funcional serão explicados e implementados.
+
+#### Ementa
 
 - Aridade
 - Immutable data
@@ -354,15 +359,17 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 <br>
 <br>
 
-
 ### Super Sayajin III
 
 ![](http://pre13.deviantart.net/a8e4/th/pre/i/2016/361/f/7/son_goku_super_saiyan_3__2_by_nekoar-dat2zkq.png)
 
-
 #### Pré-requisitos
 
 - Conclusão do Nível Super Saiyajin II
+
+#### Objetivo
+
+Para contribuir abra um [Issue](https://github.com/suissa/Curso-JavaScript-Super-Sayajin/issues)
 
 #### Módulo 1 - NoSQL
 
@@ -376,8 +383,6 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 - Atomic Fucking Design
 - Programação Reativa
 
-
-
 <br>
 <br>
 
@@ -386,12 +391,15 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 <br>
 <br>
 
-
 ### Super Sayajin IV
 
 #### Pré-requisitos
 
 - Conclusão do Nível Super Saiyajin III
+
+#### Objetivo
+
+Para contribuir abra um [Issue](https://github.com/suissa/Curso-JavaScript-Super-Sayajin/issues)
 
 #### Ementa
 
@@ -400,9 +408,6 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 - Morphisms, 
 - Data structures
 
-
-
-
 <br>
 <br>
 
@@ -411,12 +416,15 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 <br>
 <br>
 
-
 ### Super Sayajin V
 
 #### Pré-requisitos
 
 - Conclusão do Nível Super Saiyajin IV
+
+#### Objetivo
+
+Para contribuir abra um [Issue](https://github.com/suissa/Curso-JavaScript-Super-Sayajin/issues)
 
 #### Ementa
 
@@ -427,6 +435,14 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 - Redes Neurais
 
 ![](http://i.imgur.com/sqemrMI.jpg)~
+
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
 
 ## Certificado
 
