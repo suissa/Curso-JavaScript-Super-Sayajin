@@ -87,6 +87,30 @@ deverá criar pelo menos 2 funções novas.
 
 #### Aula 01 - Conhecendo funções anônimas
 
+##### O que é uma função?
+
+<br>
+
+> Uma função ou aplicação é uma relação de um conjunto `A` com um conjunto `B`.
+
+*fonte: [Função (matemática) - Wikipedia](https://pt.wikipedia.org/wiki/Fun%C3%A7%C3%A3o_(matem%C3%A1tica))*
+
+<br>
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Venn_diagram_of_a_function.svg/450px-Venn_diagram_of_a_function.svg.png)
+
+<br>
+
+Podemos imaginar que o conjunto `A` é o conjunto dos valores dos nossos <br>
+parâmetros e o conjunto `B` é o conjunto dos valores dos resultados.
+
+Logo essa relação entre esses dois conjuntos pode também ser<br> 
+uma transformação, filtragem, etc. Por exemplo:
+
+![](http://clubes.obmep.org.br/blog/wp-content/uploads/2015/11/separado.png)
+
+
+
 ##### Entendendo as operações matemáticas básicas
 
 - soma: 
@@ -104,6 +128,12 @@ deverá criar pelo menos 2 funções novas.
   - ( x, y ) => x / y 
   - ( y ) => ( x ) => ...
   + invertendo essa operação
+
+> Na lógica matemática e na ciência da computação, lambda cálculo , também escrito como cálculo-λ é um sistema formal que estuda funções recursivas computáveis, no que se refere a teoria da computabilidade, e fenômenos relacionados, como variáveis ligadas e substituição. Sua principal característica são as entidades que podem ser utilizadas como argumentos e retornadas como valores de outras funções.
+> 
+> A parte relevante de lambda cálculo para computação ficou conhecida como lambda cálculo não-tipado. O lambda cálculo tipado e o não-tipado tem suas ideias aplicadas nos campos da lógica, teoria da recursão (computabilidade) e linguística, e tem tido um grande papel no desenvolvimento da teoria de linguagens de programação (com a versão não-tipada sendo a inspiração original para programação funcional, em particular Lisp
+
+*fonte: [Cálculo lambda - Wikipedia](https://pt.wikipedia.org/wiki/C%C3%A1lculo_lambda)*
 
 ##### Desafio
 
