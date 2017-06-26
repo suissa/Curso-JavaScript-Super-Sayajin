@@ -7,6 +7,10 @@
 
 > Curso COMPLETO de JavaScript do básico ao avançado trilhando pelo caminho Funcional utilizando ES6.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/cards.jpg">
+</p>
+
 ## Antes do Curso
 
 ![Antes do Curso](http://i.imgur.com/PllOhHs.jpg)
@@ -46,7 +50,7 @@ Além disso veja a definição de uma função:
 Trocando em míudos:
 
 
-> Uma função é a ação de transformação entre conjuntos, onde você SEMPRE<br> 
+> Uma função é a ação de transformação entre conjuntos, onde você SEMPRE<br>
 terá dois conjuntos: de entrada e de saída. Ou seja, qualquer tipo de transformação<br>
 que você faça será uma função que SEMPRE retornará algo.
 
@@ -57,9 +61,9 @@ que você faça será uma função que SEMPRE retornará algo.
 *que contém a propriedade setada, para que você possa encadear suas funções,* <br>
 *por exemplo.*
 
-<br> 
+<br>
 
-<br> 
+<br>
 
 ## Níveis
 
@@ -71,7 +75,7 @@ que você faça será uma função que SEMPRE retornará algo.
 - **Super Sayajin IV**
 - **Super Sayajin V**
 
-Antes de falar da ementa de cada um eu quero que você entenda que o conteúdo<br> 
+Antes de falar da ementa de cada um eu quero que você entenda que o conteúdo<br>
 matemático será voltado para casos reais e eu LHE GARANTO que você usará algum dia, <br>
 porém antes você precisa entender como cada operação matemática funciona por trás dos panos, <br>
 depois disso você sempre re-usará as funções previamente criadas, ou seja, para criar a próxima<br>
@@ -87,7 +91,7 @@ função você deverá obrigatóriamente ter criado as anteriores.
 
 ## Meta
 
-Como teve uma busca enorme e em no máximo 4 dias estamos chegando em 100 inscritos<br> 
+Como teve uma busca enorme e em no máximo 4 dias estamos chegando em 100 inscritos<br>
 **a meta ATUAL agora é 150 alunos e para isso adicionarei alguns sorteios no curso!**
 
 **E o valor é de R$35.**
@@ -98,11 +102,6 @@ Como teve uma busca enorme e em no máximo 4 dias estamos chegando em 100 inscri
 > **Tá suave né???**
 
 <br>
-
-![](http://img06.deviantart.net/2674/i/2015/214/7/5/vegeta_super_saiyan_god_super_saiyan_3_by_dgkilla95-d93xztn.jpg)
-
-<br>
-<hr>
 <br>
 
 ## Início
@@ -126,9 +125,11 @@ Telegram
 <br>
 <br>
 
-### Super Sayajin I 
+### Super Sayajin I
 
-![](http://cydeweys.com/archive/archive1/benyin/SuperGoku.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss1.jpg">
+</p>
 
 #### Módulo 1 - Funções e Lógica
 
@@ -146,7 +147,7 @@ Esse módulo É **OBRIGATÓRIO** para quem:
 
 ##### Matemática Discreta
 
-Vamos aprender como criar TODAS as operações mais utilizadas na Matemática<br> 
+Vamos aprender como criar TODAS as operações mais utilizadas na Matemática<br>
 e como trabalhar com o tipo `Number`, para isso inciaremos direto na função, <br>
 para que o aluno entenda que esse é o conceito mais importante que ele precisa.
 
@@ -165,7 +166,7 @@ de conjuntos, como: adição, subtração e intersecção.
 - Função;
   - sempre pura!
 - Números;
-- Operações matemáticas: 
+- Operações matemáticas:
   - soma, subtração, multiplicação, divisão, exponenciação e radiciação;
   - todas baseadas apenas na soma;
 - Boolean;
@@ -195,7 +196,7 @@ um artigo sobre algum dos temas abordados.
 
 #### Projeto Final
 
-Criação de uma calculadora com o máximo possível de funções matemáticas e físicas, cada aluno<br> 
+Criação de uma calculadora com o máximo possível de funções matemáticas e físicas, cada aluno<br>
 deverá criar pelo menos 2 funções novas.
 
 
@@ -206,7 +207,7 @@ deverá criar pelo menos 2 funções novas.
 
 <br>
 
-#### Módulo 2 - Estatística & Estrutura de Dados 
+#### Módulo 2 - Estatística & Estrutura de Dados
 ##### Super Saiyajin Dai Ni Dankai (第2形態)
 
 Nesse módulo mostrarei como criar funções de Estatística baseando-se apenas
@@ -293,7 +294,7 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 #### Módulo 4 - O JavaScript nú
 ##### Super Saiyajin Full Power (超サイヤ人フルパワ)
 
-Nesse módulo aprenderemos como o JavaScript funciona por trás das cortinas, tanto<br> 
+Nesse módulo aprenderemos como o JavaScript funciona por trás das cortinas, tanto<br>
 no navegador como no Node.js
 
 ###### JavaScript
@@ -316,7 +317,9 @@ no navegador como no Node.js
 
 ### Super Saiyajin II
 
-![](https://vignette1.wikia.nocookie.net/dragonball/images/d/d8/Goku_SSJ2_Artwork.png/revision/latest?cb=20160820231336&path-prefix=es)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss2.jpg">
+</p>
 
 Vários conceitos teóricos da Programação Funcional serão explicados e implementados, como:
 
@@ -347,7 +350,9 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 
 ### Super Sayajin III
 
-![](http://pre13.deviantart.net/a8e4/th/pre/i/2016/361/f/7/son_goku_super_saiyan_3__2_by_nekoar-dat2zkq.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss3.jpg">
+</p>
 
 
 ##### Pré-requisitos
@@ -379,9 +384,13 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 
 ### Super Sayajin IV
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss4.jpg">
+</p>
+
 - Teoria das Categorias
-- Point-free programming, 
-- Morphisms, 
+- Point-free programming,
+- Morphisms,
 - Data structures
 
 
@@ -400,6 +409,10 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 
 ### Super Sayajin V
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss5.jpg">
+</p>
+
 ##### Pré-requisitos
 
 - Conclusão do Nível Super Saiyajin IV
@@ -411,12 +424,6 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 - Webtorrent
 - Blockchain
 - Redes Neurais
-
-
-
-
-
-![](http://i.imgur.com/sqemrMI.jpg)~
 
 ### Certificado
 
