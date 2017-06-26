@@ -282,7 +282,9 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 
 ###### JavaScript
 
+###### Projeto Final
 
+Para sugerir um projeto final para esse módulo, abra uma [Issue](https://github.com/suissa/Curso-JavaScript-Super-Sayajin/issues) nesse repositório.
 
 
 <br>
@@ -307,6 +309,10 @@ no navegador como no Node.js
 - Promises
 - Prototype
 
+###### Projeto Final
+
+Para sugerir um projeto final para esse módulo, abra uma [Issue](https://github.com/suissa/Curso-JavaScript-Super-Sayajin/issues) nesse repositório.
+
 
 <br>
 <br>
@@ -320,6 +326,12 @@ no navegador como no Node.js
 
 ![](https://vignette1.wikia.nocookie.net/dragonball/images/d/d8/Goku_SSJ2_Artwork.png/revision/latest?cb=20160820231336&path-prefix=es)
 
+##### Pré-requisitos
+
+- Conclusão do Nível Super Saiyajin I
+
+#### Ementa
+
 Vários conceitos teóricos da Programação Funcional serão explicados e implementados, como:
 
 - Aridade
@@ -331,12 +343,6 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 - Y-Combinator
 - TCO
 - [FantasyLand](https://github.com/fantasyland/fantasy-land)
-
-
-##### Pré-requisitos
-
-- Conclusão do Nível Super Saiyajin I
-
 
 <br>
 <br>
@@ -381,15 +387,19 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 
 ### Super Sayajin IV
 
+##### Pré-requisitos
+
+- Conclusão do Nível Super Saiyajin III
+
+#### Ementa
+
 - Teoria das Categorias
 - Point-free programming, 
 - Morphisms, 
 - Data structures
 
 
-##### Pré-requisitos
 
-- Conclusão do Nível Super Saiyajin III
 
 <br>
 <br>
@@ -414,28 +424,23 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 - Blockchain
 - Redes Neurais
 
-
-
-
-
 ![](http://i.imgur.com/sqemrMI.jpg)~
 
 ### Certificado
 
 O aluno receberá um certificado mediante a entrega de todos os requisitos obrigatórios.
 
-
-# Forma de pagamento
+### Forma de pagamento
 
 Será feito via depósito diretamente na conta do professor. O valor de investimento do curso é 35R$.
 
-## Exercícios
+### Exercícios
 
 
-## Suporte
+### Suporte
 
 O curso conta com o suporte da própria comunidade e também dos professores da Webschool através do [Telegram](https://t.me/forumwebschool) e do nosso [Fórum](https://github.com/Webschool-io/forum). Vamos utilizar as Issues nosso repositorio [Fórum](https://github.com/Webschool-io/forum) para poder documentar as duvidas, assim podendo manter um histórico que possa ajudar outras pessoas que venham a ter a mesma dúvida que você. Além disso o nosso fórum e conectado com o grupo do telegram para que sua dúvida possa ser respondida facilmente.
 
-## Apoio
+### Apoio
 
 Entre em contato para apoiar esse curso.
