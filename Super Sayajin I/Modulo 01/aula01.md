@@ -63,15 +63,19 @@ Essas duas funções utilizam o mesmo conjunto de entrada, o conjunto dos númer
 
 ### Reduzindo à apenas uma operação
 
+<br>
+<br>
 
 > **Você já pensou que qualquer operação matemática pode ser**<br>
 > **reduzida apenas em soma e subtração???**
 
 
 <br>
+<br>
 
 ![](http://geradormemes.com/media/created/vuaeem.jpg)
 
+<br>
 <br>
 
 
@@ -79,9 +83,20 @@ Essas duas funções utilizam o mesmo conjunto de entrada, o conjunto dos númer
 
 > Dica matadora essa né?
 
-Você pode usar número negativo pois seu sinal é [representado por 64 bits, sendo apenas 1 para seu sinal](http://www.2ality.com/2012/04/number-encoding.html).
+
+<br>
+<br>
+
+Você pode usar número negativo pois seu sinal é<br> 
+[representado por 64 bits, sendo apenas 1 para seu sinal](http://www.2ality.com/2012/04/number-encoding.html).
+
+<br>
+<br>
 
 ![](http://i.imgur.com/lXqXj6A.png)
+
+<br>
+<br>
 
 Então vamos pensar:
 
