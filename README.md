@@ -11,6 +11,52 @@
   <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/cards.jpg">
 </p>
 
+## Pré-requisitos
+
+- Usar o cérebro
+- Ensino Médio
+- Ter [brio](https://www.youtube.com/watch?v=dpn1JL15AXA)
+- Ter Internet
+
+
+## Meta
+
+Como teve uma busca enorme e em no máximo 4 dias estamos chegando em 100 inscritos<br>
+**a meta ATUAL agora é 200 alunos e para isso adicionarei alguns sorteios no curso!**
+
+**E o valor é de R$35.**
+
+<br>
+<br>
+
+> **Tá suave né???**
+
+<br>
+<br>
+
+## Início
+
+**Iniciaremos após atingirmos a meta, espero que seja no início de Agosto!**
+
+
+## Inscrição
+
+Para se inscrever basta abrir uma issue nesse repositório com seus seguintes dados:
+
+Email
+Facebook/Twitter
+Telegram
+
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
+
+
+
 ## Antes do Curso
 
 ![Antes do Curso](http://i.imgur.com/PllOhHs.jpg)
@@ -81,49 +127,6 @@ porém antes você precisa entender como cada operação matemática funciona po
 depois disso você sempre re-usará as funções previamente criadas, ou seja, para criar a próxima<br>
 função você deverá obrigatóriamente ter criado as anteriores.
 
-## Pré-requisitos
-
-- Usar o cérebro
-- Ensino Médio
-- Ter [brio](https://www.youtube.com/watch?v=dpn1JL15AXA)
-- Ter Internet
-
-
-## Meta
-
-Como teve uma busca enorme e em no máximo 4 dias estamos chegando em 100 inscritos<br>
-**a meta ATUAL agora é 150 alunos e para isso adicionarei alguns sorteios no curso!**
-
-**E o valor é de R$35.**
-
-<br>
-<br>
-
-> **Tá suave né???**
-
-<br>
-<br>
-
-## Início
-
-**Iniciaremos após atingirmos a meta, espero que seja no início de Agosto!**
-
-
-## Inscrição
-
-Para se inscrever basta abrir uma issue nesse repositório com seus seguintes dados:
-
-Email
-Facebook/Twitter
-Telegram
-
-<br>
-<br>
-
-<hr>
-
-<br>
-<br>
 
 ### Super Sayajin I
 
