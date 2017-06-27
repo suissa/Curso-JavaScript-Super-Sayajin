@@ -236,7 +236,7 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 - Organização e estruturação dos dados;
 - etc.
 
-##### Química
+##### Química - INCOMPLETO
 
 - Estruturação dos dados dos átomos;
 - Estruturação dos dados das moléculas;
@@ -265,7 +265,7 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 <hr>
 <br>
 
-#### Módulo 3 - Biologia e Arquitetura de API
+#### Módulo 3 - Biologia e Arquitetura de API - INCOMPLETO
 ##### Super Saiyajin Dai San Dankai (超サイヤ人第3段階)
 
 
@@ -288,7 +288,7 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 <br>
 
 
-#### Módulo 4 - O JavaScript nú
+#### Módulo 4 - O JavaScript nú - INCOMPLETO
 ##### Super Saiyajin Full Power (超サイヤ人フルパワ)
 
 Nesse módulo aprenderemos como o JavaScript funciona por trás das cortinas, tanto<br>
@@ -312,7 +312,7 @@ no navegador como no Node.js
 <br>
 <br>
 
-### Super Saiyajin II
+### Super Saiyajin II - INCOMPLETO
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss2.jpg">
@@ -345,7 +345,7 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 <br>
 
 
-### Super Sayajin III
+### Super Sayajin III - INCOMPLETO
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss3.jpg">
@@ -379,7 +379,7 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 <br>
 
 
-### Super Sayajin IV
+### Super Sayajin IV - INCOMPLETO
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss4.jpg">
@@ -404,7 +404,7 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 <br>
 
 
-### Super Sayajin V
+### Super Sayajin V - INCOMPLETO
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss5.jpg">
