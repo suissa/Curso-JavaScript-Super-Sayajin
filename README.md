@@ -145,6 +145,7 @@ Esse módulo É **OBRIGATÓRIO** para quem:
 - Não sabe como compor operações matemáticas complexas usando apenas soma e números negativos;
 - Não tem lógica matemática forte
 
+###### Quantidade de aulas: pelo menos 20.
 
 #### Tópicos
 
@@ -162,6 +163,11 @@ Depois iremos aprender a parte de coleções de números e conjuntos, onde emula
 o conceito de conjutos com `Array` e `Set`, pois o `Set` não possui NENHUMA das operações<br>
 de conjuntos, como: adição, subtração e intersecção.
 
+Além disso eu ensinarei como podemos inferir fórmulas e resolver problemas matemáticos/físicos<br>
+sem a necessidade de utilização da fórmula.
+
+> **Se você não sair MONSTR(A|O) em lógica matemática e booleana eu programarei só em JAVA!**
+
 ###### Conceitos
 
 - Constante;
@@ -176,7 +182,9 @@ de conjuntos, como: adição, subtração e intersecção.
 - Lógica: matemática e booleana;
 - Conjuntos;
 - Operaçes com Conjuntos;
-- Física: como inferir fórmulas baseando-se em conceitos.
+- Correlações entre os números;
+- Matemática: como inferir fórmulas baseando-se nos conceitos.
+- Física: como inferir fórmulas baseando-se nos conceitos.
 
 ###### JavaScript
 
