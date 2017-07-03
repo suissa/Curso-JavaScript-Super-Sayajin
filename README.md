@@ -5,11 +5,59 @@
 
 *depois de criar que percebi que faltou um i em Saiyajin*
 
-> Curso COMPLETO de JavaScript do básico ao avançado trilhando pelo caminho Funcional utilizando ES6.
+> **Curso COMPLETO de JavaScript do básico ao avançado trilhando o caminho Funcional com ES6.**
+
+*ps: ensinarei tudo que eu sei e ainda vou estudar sobre ES6/ES7*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/cards.jpg">
 </p>
+
+## Pré-requisitos
+
+- Usar o cérebro
+- Ensino Médio
+- Ter [brio](https://www.youtube.com/watch?v=dpn1JL15AXA)
+- Ter Internet
+
+
+## Meta
+
+Como teve uma busca enorme e em no máximo 4 dias estamos chegando em 100 inscritos<br>
+**a meta ATUAL agora é 200 alunos e para isso adicionarei alguns sorteios no curso!**
+
+**E o valor é de R$35 POR MÓDULO.**
+
+<br>
+<br>
+
+> **Tá suave né???**
+
+<br>
+<br>
+
+## Início
+
+**Iniciaremos após atingirmos a meta, espero que seja no início de Agosto!**
+
+
+## Inscrição
+
+Para se inscrever basta abrir uma issue nesse repositório com seus seguintes dados:
+
+Email
+Facebook/Twitter
+Telegram
+
+<br>
+<br>
+
+<hr>
+
+<br>
+<br>
+
+
 
 ## Antes do Curso
 
@@ -81,49 +129,6 @@ porém antes você precisa entender como cada operação matemática funciona po
 depois disso você sempre re-usará as funções previamente criadas, ou seja, para criar a próxima<br>
 função você deverá obrigatóriamente ter criado as anteriores.
 
-## Pré-requisitos
-
-- Usar o cérebro
-- Ensino Médio
-- Ter [brio](https://www.youtube.com/watch?v=dpn1JL15AXA)
-- Ter Internet
-
-
-## Meta
-
-Como teve uma busca enorme e em no máximo 4 dias estamos chegando em 100 inscritos<br>
-**a meta ATUAL agora é 150 alunos e para isso adicionarei alguns sorteios no curso!**
-
-**E o valor é de R$35.**
-
-<br>
-<br>
-
-> **Tá suave né???**
-
-<br>
-<br>
-
-## Início
-
-**Iniciaremos após atingirmos a meta, espero que seja no início de Agosto!**
-
-
-## Inscrição
-
-Para se inscrever basta abrir uma issue nesse repositório com seus seguintes dados:
-
-Email
-Facebook/Twitter
-Telegram
-
-<br>
-<br>
-
-<hr>
-
-<br>
-<br>
 
 ### Super Sayajin I
 
@@ -142,6 +147,7 @@ Esse módulo É **OBRIGATÓRIO** para quem:
 - Não sabe como compor operações matemáticas complexas usando apenas soma e números negativos;
 - Não tem lógica matemática forte
 
+###### Quantidade de aulas: pelo menos 20.
 
 #### Tópicos
 
@@ -159,6 +165,11 @@ Depois iremos aprender a parte de coleções de números e conjuntos, onde emula
 o conceito de conjutos com `Array` e `Set`, pois o `Set` não possui NENHUMA das operações<br>
 de conjuntos, como: adição, subtração e intersecção.
 
+Além disso eu ensinarei como podemos inferir fórmulas e resolver problemas matemáticos/físicos<br>
+sem a necessidade de utilização da fórmula.
+
+> **Se você não sair MONSTR(A|O) em lógica matemática e booleana eu programarei só em JAVA!**
+
 ###### Conceitos
 
 - Constante;
@@ -173,7 +184,9 @@ de conjuntos, como: adição, subtração e intersecção.
 - Lógica: matemática e booleana;
 - Conjuntos;
 - Operaçes com Conjuntos;
-- Física: como inferir fórmulas baseando-se em conceitos.
+- Correlações entre os números;
+- Matemática: como inferir fórmulas baseando-se nos conceitos.
+- Física: como inferir fórmulas baseando-se nos conceitos.
 
 ###### JavaScript
 
@@ -233,7 +246,7 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 - Organização e estruturação dos dados;
 - etc.
 
-##### Química
+##### Química - INCOMPLETO
 
 - Estruturação dos dados dos átomos;
 - Estruturação dos dados das moléculas;
@@ -262,7 +275,7 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 <hr>
 <br>
 
-#### Módulo 3 - Biologia e Arquitetura de API
+#### Módulo 3 - Biologia e Arquitetura de API - INCOMPLETO
 ##### Super Saiyajin Dai San Dankai (超サイヤ人第3段階)
 
 
@@ -285,7 +298,7 @@ pela Inteligência Artificial para que não precisemos depender do *Python* ou *
 <br>
 
 
-#### Módulo 4 - O JavaScript nú
+#### Módulo 4 - O JavaScript nú - INCOMPLETO
 ##### Super Saiyajin Full Power (超サイヤ人フルパワ)
 
 Nesse módulo aprenderemos como o JavaScript funciona por trás das cortinas, tanto<br>
@@ -309,7 +322,7 @@ no navegador como no Node.js
 <br>
 <br>
 
-### Super Saiyajin II
+### Super Saiyajin II - INCOMPLETO
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss2.jpg">
@@ -342,7 +355,7 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 <br>
 
 
-### Super Sayajin III
+### Super Sayajin III - INCOMPLETO
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss3.jpg">
@@ -376,7 +389,7 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 <br>
 
 
-### Super Sayajin IV
+### Super Sayajin IV - INCOMPLETO
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss4.jpg">
@@ -401,7 +414,7 @@ Vários conceitos teóricos da Programação Funcional serão explicados e imple
 <br>
 
 
-### Super Sayajin V
+### Super Sayajin V - INCOMPLETO
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/ss5.jpg">
