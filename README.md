@@ -7,6 +7,8 @@
 
 > Curso COMPLETO de JavaScript do básico ao avançado trilhando o caminho Funcional com ES6.
 
+*ps: ensinarei tudo que eu sei e ainda vou estudar sobre ES6/ES7*
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/cards.jpg">
 </p>
