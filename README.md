@@ -15,19 +15,20 @@ Essa é uma pequena lista das *features* que o ES6 nos provê, ainda não<br>
 domino todos os itens, mas com o decorrer de cada aula estudarei cada vez<br>
 mais e mais para poder **passar o melhor conteúdo possível para você!**
 
-- [arrows]()
-- [classes]()
-- [enhanced object literals]()
-- [template strings]()
-- [destructuring]()
-- [default + rest + spread]()
-- [let + const]()
+- [arrows](): Nível I - Módulo 1
+- [classes](): Nível I
+- [enhanced object literals](): Nível I
+- [template strings](): Nível I - Módulo 1
+- [destructuring](): Nível I - Módulo 1
+- [default + rest + spread](): Nível I - Módulo 1
+- [let + const](): Nível I - Módulo 1
 - [iterators + for..of]()
 - [generators]()
 - [unicode]()
 - [modules]()
 - [module loaders]()
-- [map + set + weakmap + weakset]()
+- [map + weakmap](): Nível I - Módulo 2
+- [set + weakset](): Nível I - Módulo 1
 - [proxies]()
 - [symbols]()
 - [subclassable built-ins]()
@@ -42,6 +43,18 @@ mais e mais para poder **passar o melhor conteúdo possível para você!**
 <p align="center">
   <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/cards.jpg">
 </p>
+
+## Exercícios
+
+Para responder os exercícios crie um repositório chamado:<br>
+
+`Curso-JavaScript-Super-Sayajin-Nível-1-Módulo-1-exercícios`
+
+Dentro dele crie uma pasta chamada aula01 ou aula02 ou aulaNumeroDela e coloque<br>  
+dentro todos seus códigos, sendo cada exercício separado por arquivo `.js`!
+
+**POR FAVOR teste seu código com Node.js ANTES DE ENVIAR!**
+
 
 ## Pré-requisitos
 
