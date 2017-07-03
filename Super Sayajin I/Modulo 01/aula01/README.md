@@ -429,12 +429,16 @@ Para isso precisamos entender o **algoritmo** da multiplicação:
 ```
 
 Receba x e y
-Pegue o valor de x e some nele mesmo y vezes.
+Pegue o valor de x e some ele mesmo y vezes.
 
 
 ```
 
+<br>
+
 Traduzindo para JavaScript:
+
+<br>
 
 
 ```js
@@ -451,7 +455,7 @@ const times = ( y ) => ( x ) => {
   return result
 }
 
-console.log('3 times 4', times( 4 )( 3 ) )
+console.log('3 times 4: ', times( 4 )( 3 ) ) // 3 times 4: 
 
 ```
 
