@@ -16,28 +16,30 @@ domino todos os itens, mas com o decorrer de cada aula estudarei cada vez<br>
 mais e mais para poder **passar o melhor conteúdo possível para você!**
 
 - [arrows](): Nível I - Módulo 1
-- [classes](): Nível I
-- [enhanced object literals](): Nível I
 - [template strings](): Nível I - Módulo 1
 - [destructuring](): Nível I - Módulo 1
 - [default + rest + spread](): Nível I - Módulo 1
 - [let + const](): Nível I - Módulo 1
+- [array API](): Nível I - Módulo 1
 - [set + weakset](): Nível I - Módulo 1
 - [map + weakmap](): Nível I - Módulo 2
 - [math + number](): Nível I - Módulo 2
-- [string + array + object APIs](): Nível I - Módulo 3
-- [iterators + for..of]()
-- [generators]()
-- [unicode]()
-- [modules]()
-- [module loaders]()
-- [proxies]()
-- [symbols]()
-- [subclassable built-ins]()
-- [promises]()
-- [binary and octal literals]()
-- [reflect api]()
-- [tail calls]()
+- [string API](): Nível I - Módulo 2
+- [object APIs](): Nível I - Módulo 2
+- [symbols](): Nível I - Módulo 2
+- [enhanced object literals](): Nível I - Módulo 2
+- [classes](): Nível I: Módulo 3
+- [iterators + for..of](): Nível I - Módulo 3
+- [unicode](): Nível I - Módulo 4
+- [modules](): Nível I - Módulo 4
+- [module loaders](): Nível I - Módulo 4
+- [generators](): Nível I - Módulo 4
+- [proxies](): Nível I - Módulo 4
+- [subclassable built-ins](): Nível I - Módulo 4
+- [promises](): Nível I - Módulo 4
+- [binary and octal literals](): Nível I - Módulo 4
+- [reflect api](): Nível I - Módulo 4
+- [tail calls](): Nível I - Módulo 4
 
 *fonte: lista retirada de [https://github.com/lukehoban/es6features](https://github.com/lukehoban/es6features)*
 
