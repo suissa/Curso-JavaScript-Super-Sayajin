@@ -5,7 +5,7 @@
 
 *depois de criar que percebi que faltou um i em Saiyajin*
 
-> Curso COMPLETO de JavaScript do básico ao avançado trilhando o caminho Funcional com ES6.
+> **Curso COMPLETO de JavaScript do básico ao avançado trilhando o caminho Funcional com ES6.**
 
 *ps: ensinarei tudo que eu sei e ainda vou estudar sobre ES6/ES7*
 
