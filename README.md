@@ -22,18 +22,19 @@ mais e mais para poder **passar o melhor conteúdo possível para você!**
 - [destructuring](): Nível I - Módulo 1
 - [default + rest + spread](): Nível I - Módulo 1
 - [let + const](): Nível I - Módulo 1
+- [set + weakset](): Nível I - Módulo 1
+- [map + weakmap](): Nível I - Módulo 2
+- [math + number](): Nível I - Módulo 2
+- [string + array + object APIs](): Nível I - Módulo 3
 - [iterators + for..of]()
 - [generators]()
 - [unicode]()
 - [modules]()
 - [module loaders]()
-- [map + weakmap](): Nível I - Módulo 2
-- [set + weakset](): Nível I - Módulo 1
 - [proxies]()
 - [symbols]()
 - [subclassable built-ins]()
 - [promises]()
-- [math + number + string + array + object APIs]()
 - [binary and octal literals]()
 - [reflect api]()
 - [tail calls]()
