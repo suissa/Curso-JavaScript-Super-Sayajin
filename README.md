@@ -15,6 +15,8 @@ Essa é uma pequena lista das *features* que o ES6 nos provê, ainda não<br>
 domino todos os itens, mas com o decorrer de cada aula estudarei cada vez<br>
 mais e mais para poder **passar o melhor conteúdo possível para você!**
 
+Separei pelos módulos onde cada uma será destrinchada:
+
 - [arrows](): Nível I - Módulo 1
 - [template strings](): Nível I - Módulo 1
 - [destructuring](): Nível I - Módulo 1
