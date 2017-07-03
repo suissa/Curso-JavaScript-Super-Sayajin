@@ -9,6 +9,36 @@
 
 *ps: ensinarei tudo que eu sei e ainda vou estudar sobre ES6/ES7*
 
+## ES6
+
+Essa é uma pequena lista das *features* que o ES6 nos provê, ainda não<br>
+domino todos os itens, mas com o decorrer de cada aula estudarei cada vez<br>
+mais e mais para poder **passar o melhor conteúdo possível para você!**
+
+- [arrows]()
+- [classes]()
+- [enhanced object literals]()
+- [template strings]()
+- [destructuring]()
+- [default + rest + spread]()
+- [let + const]()
+- [iterators + for..of]()
+- [generators]()
+- [unicode]()
+- [modules]()
+- [module loaders]()
+- [map + set + weakmap + weakset]()
+- [proxies]()
+- [symbols]()
+- [subclassable built-ins]()
+- [promises]()
+- [math + number + string + array + object APIs]()
+- [binary and octal literals]()
+- [reflect api]()
+- [tail calls]()
+
+*fonte: lista retirada de [https://github.com/lukehoban/es6features](https://github.com/lukehoban/es6features)*
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/interaminense/Curso-JavaScript-Super-Sayajin/master/img/cards.jpg">
 </p>
