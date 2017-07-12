@@ -79,7 +79,7 @@ Como teve uma busca enorme e em no máximo 4 dias estamos chegando em 100 inscri
 
 <br>
 
-Estamos com 90 pagantes até agora.`
+> Estamos com 130 pagantes até agora.
 
 <br>
 
