@@ -77,21 +77,17 @@ Como teve uma busca enorme e em no máximo 4 dias estamos chegando em 100 inscri
 
 **E o valor é de R$35 POR MÓDULO.**
 
-<br>
-
-> Estamos com 130 pagantes até agora.
-
-<br>
-
-> **Tá suave né???**
 
 <br>
 <br>
 
 ## Início
 
-**Iniciaremos após atingirmos a meta, espero que seja no início de Agosto!**
+**Dia 15 de Agosto de 2017.**
 
+
+<br>
+<br>
 
 ## Inscrição
 
