@@ -1,4 +1,4 @@
-# AVISO - Precisei remover todos os dados das ISSUES p/ q o Github desbloqueasse esse repositório!
+# AVISO - Precisei remover todos os dados das ISSUES p/ q esse repositório seja desbloqueado!
 
 ![Curso - JavaScript Super Saiyajin](http://i.imgur.com/jGXoRO6.png)
 
