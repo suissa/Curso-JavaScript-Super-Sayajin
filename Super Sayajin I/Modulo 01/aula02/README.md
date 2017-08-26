@@ -1,6 +1,6 @@
 # Aula 2 - Utilizando nossas operações
 
-
+Nessa aula eu já começo passando um desafio para você.
 
 
 ## Desafio
@@ -15,7 +15,30 @@ transformou-se em um valor que não está contido nesse grupo e qual o grupo que
 > **Lembrando que a ÚNICA função aceita dentro da divisão será a da soma!**
 
 
-Mostrai o mesmo exemplo com algumas dessas funções.
+## Exponenciação e Radiciação
+
+![Exponenciação](http://mundoeducacao.bol.uol.com.br/upload/conteudo_legenda/ba789adb96c654e9c0d7c4d9ee79496f.jpg)
+
+Como você já deve saber a exponenciação é a função inversa da radiciação<br>
+e vice-versa e as derivam da multiplicação e divisão.
+
+Então vamos parar de enrolar e criar nossa função de exponenciação (`pow`).
+
+
+```js
+const pow = ( y ) => ( x ) =>
+  Math.pow( x, y )
+```
+
+Claramente você percebeu que estamos usando a função [`Math.pow`](http://mdn.io/pow), <br>
+que é nativa do JavaScript, caso queira saber mais *click* no *link* acima.
+
+Nesse caso nossa função `pow` recebe primeiramente seu expoente `y` e depois<br>
+sua base `x`
+
+
+
+## Aplicação
 
 Imagine que temos um *Array* de Objetos e precisamos antes de somar<br>
 os salários retirar 10% do valor de cada um e depois fazer uma média.
