@@ -1,4 +1,13 @@
-# AVISO - Precisei remover todos os dados das ISSUES p/ q esse repositório seja desbloqueado, assim espero.
+# AVISOS
+
+**Precisei remover todos os dados das ISSUES a pedido do Github.**
+
+<hr>
+
+**Soltarei as atualizações desse Curso diretamente por esse Twitter [@curso_jsssj](https://twitter.com/curso_jsssj)**
+
+
+<hr>
 
 ![Curso - JavaScript Super Saiyajin](http://i.imgur.com/jGXoRO6.png)
 
