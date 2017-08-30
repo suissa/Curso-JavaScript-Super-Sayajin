@@ -109,63 +109,6 @@ Nesse caso nossa função `pow` recebe primeiramente seu expoente `y` e depois<b
 sua base `x`
 
 
-
-## Aplicação
-
-Imagine que temos um *Array* de Objetos e precisamos antes de somar<br>
-os salários retirar 10% do valor de cada um e depois fazer uma média.
-
-```js
-
-const workers = [ 1000, 2500 , 10000 ]
-
-const withdraw = ( list, percent ) => {
-
-  let counter = 0
-  let newList = []
-
-  while ( counter < list.length) {
-    const percentValue = list[ counter ] * ( percent / 100 )
-    const newSalary = list[ counter ] - percentValue
-
-    newList[ counter ] = newSalary 
-    counter++
-  }
-
-  return newList
-}
-
-console.log( 'New Salaries: ', withdraw( workers, 10 ) )
-
-```
-
-No código acima nós apenas criamos um *Array* novo com os valores<br>
-dos valores calculados pela nossa função
-
-```js
-
-const workers = [ 1000, 2500 , 10000 ]
-
-const sumAll = ( list, percent ) => {
-
-  let counter = 0
-  let total = 0
-
-  while ( counter < list.length) {
-    const percentValue = list[ counter ] * ( percent / 100 )
-    const newSalary = list[ counter ] - percentValue
-
-    total += newSalary 
-    counter++
-  }
-
-  return total
-}
-
-console.log( 'Sum of Salaries: ', sumAll( workers, 10 ) )
-
-```
-
 ### Lembrete 1
 
 > Percebeu que não criamos **funções** porém não criamos nenhuma constante <br>
@@ -177,3 +120,31 @@ Isso se deve graças a dois conceitos que são obrigatórios para uma linguagem 
 - [High-Order Function]()
 
 **Falarei melhor sobre esses conceitos na próxima aula!**
+
+## Exercício
+
+Como você aprendeu muito bem com usar a potenciação vamos usá-la em um <br>
+problema **muito** conhecido da Matemática.
+
+Quero que você crie uma função para resolver o [Teorema de Pitágoras](https://pt.wikipedia.org/wiki/Teorema_de_Pit%C3%A1goras):
+
+> "Em qualquer triângulo retângulo, o quadrado do comprimento da hipotenusa<br> 
+é igual à soma dos quadrados dos comprimentos dos catetos."
+
+*fonte: [https://pt.wikipedia.org/wiki/Teorema_de_Pit%C3%A1goras](https://pt.wikipedia.org/wiki/Teorema_de_Pit%C3%A1goras)*
+
+![](http://www.infoescola.com/wp-content/uploads/2007/02/teorema-de-pitagoras1-450x253.jpg)
+
+Para lhe ajudar já iniciarei o código para você:
+
+```js
+const teoremaDePitagoras = ( a, b, c ) => {
+  
+}
+```
+
+Então perceba que a função `teoremaDePitagoras` recebe **3** parâmetros,<br>
+entretanto dentro dessa função você deve usar apenas as funções que<br>
+já criamos anteriormente.
+
+*Boa sorte!*
