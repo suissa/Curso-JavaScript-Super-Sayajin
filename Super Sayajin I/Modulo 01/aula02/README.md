@@ -138,12 +138,12 @@ Quero que você crie uma função para resolver o [Teorema de Pitágoras](https:
 Para lhe ajudar já iniciarei o código para você:
 
 ```js
-const teoremaDePitagoras = ( a, b, c ) => {
+const teoremaDePitagoras = ( b, c ) => {
   
 }
 ```
 
-Então perceba que a função `teoremaDePitagoras` recebe **3** parâmetros,<br>
+Então perceba que a função `teoremaDePitagoras` recebe **2** parâmetros,<br>
 entretanto dentro dessa função você deve usar apenas as funções que<br>
 já criamos anteriormente.
 
