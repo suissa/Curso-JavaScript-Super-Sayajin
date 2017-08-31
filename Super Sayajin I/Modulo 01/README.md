@@ -115,14 +115,27 @@ como a Lógica Matemática.
 
 - operador de módulo/resto
 - true/false
+- if/else
 - not
 
-#### Aula 03
+#### Aula 04
 
 Continuando com a Lógica Booleana ensinarei a teoria e a prática da utilização<br>
 da estrutura condicional [`if`](https://mdn.io/if) para criarmos uma função de<br>
 validação para [Números Primos](https://pt.wikipedia.org/wiki/N%C3%BAmero_primo).
 
-- true/false
-- not
-- 
+- and/or
+- let
+- for
+- Number.isInteger
+
+#### Aula 05
+
+
+#### Aula 06
+
+
+#### Aula 07
+
+
+#### Aula 08
