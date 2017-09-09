@@ -1,7 +1,7 @@
 const inverse = ( x ) => x * -1
 
 const add = ( y ) => ( x ) => x + y
-const subtract = ( y ) => ( x ) => add( inverse( y ) )( x )
+const subtract = ( y ) => ( x ) => add( y )( inverse( x ) )
 
 const multiply = ( y ) => ( x ) => {
 // const multiply = ( x, y ) => {
