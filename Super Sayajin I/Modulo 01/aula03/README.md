@@ -127,14 +127,15 @@ Esse com certeza é um dos testes lógicos mais simples que existem.
 
 Primeiramente vamos aos seus conceitos:
 
-> Um número inteiro qualquer é dito par se, ao ser dividido pelo número dois, 
+> Um número inteiro qualquer é dito par se, ao ser dividido pelo número dois, <br>
 > resulta em um número inteiro, caso contrário esse número é dito ímpar.
 
 *fonte: https://pt.wikipedia.org/wiki/N%C3%BAmeros_pares_e_%C3%ADmpares*
 
 ### Divisibilidade
 
-Nesse momento você precisa lembrar o que significa um número ser dividido por outro, então aqui vai:
+Nesse momento você precisa lembrar o que significa um número ser dividido por outro:
+
 
 > Um número é divisível por outro quando o resto da divisão entre os dois é igual a zero.
 
@@ -167,7 +168,7 @@ const ehImpar = ( x ) => x % 2 !== 0
 
 Mas espere um pouco! Relembre comigo a definição do Ímpar:
 
-> …é dito par se, ao ser dividido pelo número dois, resulta em um número inteiro, 
+> …é dito par se, ao ser dividido pelo número dois, resulta em um número inteiro, <br> 
 > caso contrário esse número é dito ímpar.
 
 ## Negação
@@ -235,8 +236,10 @@ const ehPar = ( x ) => !x % 2
 
 > É! Deu merda, sabe por quê?
 
-Lembra que na Matemática temos que utilizar parênteses para informar a precedência das operações?
-Precisamos utilizar esse mesmo conceito aqui para solucionar esse problema.
+Lembra que na Matemática temos que utilizar parênteses para informar a precedência das operações?<br> 
+
+Precisamos utilizar esse mesmo conceito aqui para solucionar esse problema.<br> 
+
 Quando utilizamos apenas `!x % 2` isso diz para o JavaScript negar o valor de `x` , ou seja,<br> 
 qualquer número maior que `0` resultará em `0/false`.
 
