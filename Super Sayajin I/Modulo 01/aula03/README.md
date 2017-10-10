@@ -3,6 +3,8 @@
 Nessa aula inicial sobre Lógica iremos aprender o real valor de uma negação<br>
 e como reusar nossos testes lógicos para filtrar valores.
 
+![](https://blog.digilentinc.com/wp-content/uploads/2014/12/boolean-true-false.png)
+
 ## Desafio
 
 Criar uma função, composta por outras menores, que calcule a fórmula de Bhaskara.<br> 
@@ -13,6 +15,8 @@ seus passos em funções.
 
 
 ## Lógica Booleana
+
+![This is George Boole](https://image.slidesharecdn.com/booleanlogic-130530132337-phpapp01/95/boolean-logic-how-to-talk-to-search-engines-in-their-own-language-2-638.jpg?cb=1369922108)
 
 
 > Em álgebra abstrata, álgebras booleanas (ou álgebras de Boole) são estruturas<br> algébricas que "captam as propriedades essenciais" dos operadores lógicos e de conjuntos,<br> ou ainda oferecem uma estrutura para se lidar com "afirmações"...
