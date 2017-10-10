@@ -72,7 +72,7 @@ Antes de explicar-lhe como funciona cada coisa quero que você analise a seguint
 
 ```
 
-**Essa é a tabela verdade para o E e ou OU lógicos!**
+**Essa é a tabela verdade para E e OU lógicos!**
 
 > Analisando ela, o que você pode inferir???
 
