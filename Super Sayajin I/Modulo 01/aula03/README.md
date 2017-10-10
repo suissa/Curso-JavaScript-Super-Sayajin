@@ -79,7 +79,7 @@ Antes de explicar-lhe como funciona cada coisa quero que você analise a seguint
 Para fazermos essa análise vamos pensar o seguinte:
 
 Precisamos identificar as discrepâncias entre um e outro, pois já sabemos que<br>
-nos dois casos quando comparamos doi valores iguais o retorno é o mesmo valor.
+nos dois casos quando comparamos dois valores iguais o retorno é o mesmo valor.
 
 Com isso podemos identificar o seguinte:
 
@@ -95,11 +95,11 @@ Com isso podemos identificar o seguinte:
 
 ```
 
-No caso do `E` podemos inferir que se ele for utilizado em conjunto de uma premissa<br>
-falsa (`0`) seu retorno SEMPRE será `0`.
+**No caso do `E` podemos inferir que se ele for utilizado em conjunto de uma premissa**<br>
+**falsa (`0`) seu retorno SEMPRE será `0`.**
 
-No caso do `OU` podemos inferir que se ele for utilizado em conjunto de uma premissa<br>
-verdadeira (`1`) seu retorno SEMPRE será `1`.
+**No caso do `OU` podemos inferir que se ele for utilizado em conjunto de uma premissa**<br>
+**verdadeira (`1`) seu retorno SEMPRE será `1`.**
 
 Uma outra dica bem simples para se acostumar com as inferências lógicas é trocar o <br>
 `E` por multiplicação `*` e o `OU` por soma `+`.
