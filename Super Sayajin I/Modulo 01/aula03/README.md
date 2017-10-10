@@ -494,8 +494,13 @@ Criamos as funções especializadas como resultado da execução da função `ro
 receber como valor o índice da raíz (2, 3, 4) e só na próxima execução que irá<br>
 realmente fazer o cálculo desejado.
 
-
-
+<hr>
 
 ## Exercício
 
+Utilizando o conjunto dos Números Naturais do `1` ao `10`, crie uma função para:<br>
+
+- filtrar apenas os números que sejam resultado de uma raíz quadrada
+  - onde o radicando seja maior que 20
+- filtrar apenas os números que sejam resultado de uma raíz cúbica
+  - onde o radicando seja ímpar

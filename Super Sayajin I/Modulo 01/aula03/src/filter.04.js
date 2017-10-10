@@ -1,7 +1,7 @@
 const isGreaterThan = ( y ) => ( x ) => x > y
 
-const isGreaterThan5 = isGreaterThan(5)
-const isGreaterThan8 = isGreaterThan(8)
+const isGreaterThan5 = isGreaterThan( 5 )
+const isGreaterThan8 = isGreaterThan( 8 )
 
 const list = [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
 
