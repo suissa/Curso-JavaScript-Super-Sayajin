@@ -52,6 +52,8 @@ E fazer operações lógicas utilizando esses 2 operadores:
 
 É exatamente com essas bases acima que criamos, quase, qualquer programa.
 
+![Boolean Operations](https://i.imgur.com/0CLxetP.png)
+
 Antes de explicar-lhe como funciona cada coisa quero que você analise a seguinte saída:
 
 ```
