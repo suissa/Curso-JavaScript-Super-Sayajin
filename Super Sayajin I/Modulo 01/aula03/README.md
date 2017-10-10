@@ -1,4 +1,4 @@
-# Aula 3 - Lógica Booleana
+# Aula 3 - Lógica Booleana - Negação
 
 Nessa aula inicial sobre Lógica iremos aprender o real valor de uma negação<br>
 e como reusar nossos testes lógicos para filtrar valores.
