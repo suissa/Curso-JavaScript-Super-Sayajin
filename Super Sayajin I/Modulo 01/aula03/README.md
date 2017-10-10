@@ -49,90 +49,186 @@ E fazer operações lógicas utilizando esses 2 operadores:
 
 É exatamente com essas bases acima que criamos, quase, qualquer programa.
 
-## Exemplo
-
-Teste lógico:
-
-- Vou ao cinema?
-
-Premissas:
-
-- Para ir ao cinema preciso ter dinheiro.
-- Para ir ao cinema precisa ser final de semana.
-- Para não ir ao cinema precisa estar chovendo.
-
-Analise 
-
-Vou ao cinema? SIM.
-
-<hr>
-
-Preciso ter dinheiro E
-Precisa ser final de semana E
-Precisa não estar chovendo
-
-<hr>
-
-Preciso ter dinheiro E
-Precisa ser final de semana E
-NÃO Precisa estar chovendo
-
-
-Agora vamos passar as premisas para código:
-
-
-```js
-
-const hasMoney = () => true
-const isWeekend = () => true
-const isRaining = () => false
+Antes de explicar-lhe como funciona cada coisa quero que você analise a seguinte saída:
 
 ```
 
-Para, quase, todo teste lógico que fizermos iremos encapsular em uma função.
+0 E 0 =  0
+0 E 1 =  0
+1 E 0 =  0
+1 E 1 =  1
 
-Agora para testarmos essas premisas iremos utilizar **o condicional [if](https://mdn.io/if)**,<br>
-pois ele **é o responsável por validar seu teste lógico e executar seu bloco APENAS quando**<br>
-**o resultado do seu teste der VERDADEIRO**!
+------------------------------------
+
+0 OU 0 =  0
+0 OU 1 =  1
+1 OU 0 =  1
+1 OU 1 =  1
+
+```
+
+**Essa é a tabela verdade para o E e ou OU lógicos!**
+
+> Analisando ela, o que você pode inferir???
+
+Para fazermos essa análise vamos pensar o seguinte:
+
+Precisamos identificar as discrepâncias entre um e outro, pois já sabemos que<br>
+nos dois casos quando comparamos doi valores iguais o retorno é o mesmo valor.
+
+Com isso podemos identificar o seguinte:
+
+```
+
+0 E 1 =  0
+1 E 0 =  0
+
+------------------------------------
+
+0 OU 1 =  1
+1 OU 0 =  1
+
+```
+
+No caso do `E` podemos inferir que se ele for utilizado em conjunto de uma premissa<br>
+falsa (`0`) seu retorno SEMPRE será `0`.
+
+No caso do `OU` podemos inferir que se ele for utilizado em conjunto de uma premissa<br>
+verdadeira (`1`) seu retorno SEMPRE será `1`.
+
+Uma outra dica bem simples para se acostumar com as inferências lógicas é trocar o <br>
+`E` por multiplicação `*` e o `OU` por soma `+`.
+
+```
+
+0 * 0 =  0
+0 * 1 =  0
+1 * 0 =  0
+1 * 1 =  1
+
+------------------------------------
+
+0 + 0 =  0
+0 + 1 =  1
+1 + 0 =  1
+1 + 1 =  1 // 2 > 0 == 1
+
+```
+
+Com isso vemos claramente que qualquer teste lógico **com E** que possua QUALQUER uma<br> das premissas falsas, o resultado SEMPRE será falso. Entretanto com o **OU** basta que uma<br>
+das premisas seja verdadeira que o resultado SEMPRE será verdadeiro.
+
+## Exemplo
 
 
+Imagine comigo o Conjunto dos Números Naturais, sem o zero( N*), e queremos filtrar<br> 
+ele em dois sub-conjuntos: Números Pares e Ímpares.
 
-Imagine comigo o Conjunto dos Números Naturais, sem o zero( N*), e queremos filtrar ele em dois sub-conjuntos: dos Números Pares e Ímpares.
 Esse com certeza é um dos testes lógicos mais simples que existem.
-Vamos ao conceito desses números:
-Um número inteiro qualquer é dito par se, ao ser dividido pelo número dois, resulta em um número inteiro, caso contrário esse número é dito ímpar.
-fonte: https://pt.wikipedia.org/wiki/N%C3%BAmeros_pares_e_%C3%ADmpares
-Divisibilidade
+
+Primeiramente vamos aos seus conceitos:
+
+> Um número inteiro qualquer é dito par se, ao ser dividido pelo número dois, 
+> resulta em um número inteiro, caso contrário esse número é dito ímpar.
+
+*fonte: https://pt.wikipedia.org/wiki/N%C3%BAmeros_pares_e_%C3%ADmpares*
+
+### Divisibilidade
+
 Nesse momento você precisa lembrar o que significa um número ser dividido por outro, então aqui vai:
-Um número é divisível por outro quando o resto da divisão entre os dois é igual a zero.
-fonte: https://matematicabasica.net/criterios-de-divisibilidade/
-Resto da divisão
+
+> Um número é divisível por outro quando o resto da divisão entre os dois é igual a zero.
+
+*fonte: https://matematicabasica.net/criterios-de-divisibilidade/*
+
+### Resto da divisão
+
 Olha só como recebemos o resto de uma divisão no JavaScript:
-Operador: var1 % var2
+
+- Operador: var1 % var2
+
 fonte: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators
-Testando se é Par
+
+### Testando se é Par
+
 Juntando o conteúdo acima podemos facilmente criar a seguinte função:
 
-Testando se é Ímpar
+```js
+const ehPar = ( x ) => x % 2 === 0
+```
+
+
+### Testando se é Ímpar
+
 Logicamente podemos negar a comparação com o resto e fazer o teste assim:
 
+```js
+const ehImpar = ( x ) => x % 2 !== 0
+```
+
 Mas espere um pouco! Relembre comigo a definição do Ímpar:
-…é dito par se, ao ser dividido pelo número dois, resulta em um número inteiro, caso contrário esse número é dito ímpar.
-Negação
-Se levarmos isso para Programação Funcional precisamos reaproveitar o máximo possível nossas funções, seguindo esse pensamento vamos transformar a função ehÍmpar no contrário da função ehPar .
-Para isso utilizamos o operador ! que denota a negação lógica, dessa forma:
+
+> …é dito par se, ao ser dividido pelo número dois, resulta em um número inteiro, 
+> caso contrário esse número é dito ímpar.
+
+## Negação
+
+Se levarmos isso para Programação Funcional precisamos reaproveitar o máximo possível<br> 
+nossas funções, seguindo esse pensamento vamos transformar a função ehImpar no contrário da função ehPar.<br>
+Para isso utilizamos o operador `!` que denota a negação lógica, dessa forma:
+
+
+```js
+const ehPar = ( x ) => x % 2 === 0
+const ehImpar = ( x ) => !ehPar( x )
+```
+
 
 Entretanto podemos utilizar a negação em mais uma parte desse código.
-Vamos relembrar quais são os valores que o JavaScript entende como falso?
 
-Entendeu como eu testei os valores???
-Para que a mensagem falso fosse mostrada o valor precisa ser falso pois com isso eu nego ele com ! e com isso ele entra no if .
-Com isso vimos que o valor 0 é entendido como falso, podemos então pensar o seguinte:
-preciso retornar verdadeiro se for Par;
-qualquer número par terá resto 0 quando dividido por 2;
-posso pegar o resto e negar ele para virar verdadeiro;
-e retornar.
+> Vamos relembrar quais são os valores que o JavaScript entende como falso?
+
+```
+> if( !"" ) console.log('falso')
+falso
+> if( !0 ) console.log('falso')
+falso
+> if( !NaN ) console.log('falso')
+falso
+> if( !null ) console.log('falso')
+falso
+> if( !undefined ) console.log('falso')
+falso
+> if( !false ) console.log('falso')
+falso
+```
+
+- "";
+- 0;
+- NaN;
+- null;
+- undefined;
+- false.
+
+**Ou seja, qualquer outro valor entra como verdadeiro!**
+
+> Entendeu como eu testei os valores???
+
+Para que a mensagem `falso` fosse mostrada o valor precisa ser falso, pois com isso eu nego<br> 
+ele com `!` e com isso ele entra no `if` tendo seu valor invertido/negado.
+
+Com isso vimos que o valor `0` é entendido como falso, podemos então pensar no seguinte:
+
+- preciso retornar verdadeiro se for Par;
+- qualquer número par terá resto 0 quando dividido por 2;
+- posso pegar o resto e negar ele para virar verdadeiro;
+- e retornar.
+
 Colocando isso em JavaScript:
+
+```js
+const ehPar = ( x ) => !x % 2
+```
 
 É! Deu merda, sabe por quê?
 Lembra que na Matemática temos que utilizar parênteses para informar a precedência das operações?
