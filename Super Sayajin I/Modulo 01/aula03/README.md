@@ -1,13 +1,12 @@
-# Aula 2 - Utilizando nossas operações 
+# Aula 3 - Lógica Booleana
 
-Nessa aula eu já começo passando um desafio para você.
-
-*Dica: existem pelo menos 2 formas, mas 1 é a melhor.*
-
+Nessa aula inicial sobre Lógica iremos aprender o real valor de uma negação<br>
+e como reusar nossos testes lógicos para filtrar valores.
 
 ## Desafio
 
-Criar uma função, composta por outras menores, que calcule a fórmula de Bhaskara.<br> Entretando quero que você resolva manualmente a primeira vez e depois transcreva<br>
+Criar uma função, composta por outras menores, que calcule a fórmula de Bhaskara.<br> 
+Entretando quero que você resolva manualmente a primeira vez e depois transcreva<br>
 seus passos em funções.
 
 ![](https://i.imgur.com/x7besae.png)
