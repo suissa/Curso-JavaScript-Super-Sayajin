@@ -113,10 +113,63 @@ a função para testar se o número é par em conjunto do operador [`%`](https:/
 Dessa forma demonstrando como aplicar em conjunto tanto a Lógica Booleana<br>
 como a Lógica Matemática.
 
-- operador de módulo/resto
-- true/false
-- if/else
-- not
+- operador de módulo/resto;
+- true/false;
+- if/else;
+- not;
+- par;
+- ímpar;
+
+```js
+
+const ehPar = ( x ) => ( x % 2 === 0 )
+
+```
+
+Perceba que utilizamos da comparaçao de valor **e tipo** `===` entr o<br>
+resto da divisao de x por 2, se ele for igual a `0` entao retornamos<br>
+`true` se nao for igual retornamos `false`.
+
+Isso se deve pois qualquer resultado de uma comparaçao lógica (booleans) tem como<br>
+retorno um valor booleano (verdadeiro ou falso).
+
+Entretanto se nao usarmos a comparaçao com `0` o retorno da funçao sera<br>
+o próprio `0` e no JavaScript os seguintes valores sao entendidos como falso:
+
+- `0`;
+- `false`;
+- `null`;
+- `undefined`;
+- `""`. // string vazia
+
+Entao se quisermos eliminar a comparaçao com o `0` podemos fazer o seguinte.
+
+Se sabemos que o retorno correto é o `0` e queremos que esse valor<br>
+quando retonado se transforme em `true` basta invertermos seu valor,<br>
+tendo em vista que o `0` é entendido como `false`, logo vira `true`.
+
+
+```js
+
+const ehPar = ( x ) => !( x % 2 )
+
+```
+
+Porém advinhe o que acontece se fizermos isso:
+
+
+```js
+
+const ehPar = ( x ) => !x % 2
+
+```
+
+O retorno **sempre** sera `0` pois quando negamos o valor de `x`,<br>
+nao sendo o `0`, ele ira se transformar em `false`. Pois **qualquer** <br>
+número que nao seja o `0` é `true`, logo é transformado em `false`.
+
+Por isso que encapsulamos o calculo que retorna o resto em `( )` e usamos<br>
+a negaçao antes dos parênteses, para que possamos inverter o valor total.
 
 #### Aula 04
 
@@ -124,18 +177,31 @@ Continuando com a Lógica Booleana ensinarei a teoria e a prática da utilizaç�
 da estrutura condicional [`if`](https://mdn.io/if) para criarmos uma função de<br>
 validação para [Números Primos](https://pt.wikipedia.org/wiki/N%C3%BAmero_primo).
 
-- and/or
-- let
-- for
-- Number.isInteger
+- and/or;
+- let;
+- for;
+- Number.isInteger;
 
 #### Aula 05
 
+Conjuntos
+
+- Array;
+- Set;
+- contém/contido;
 
 #### Aula 06
 
+Operações com Conjuntos
+
+- uniao;
+- subtraçao;
+- intersecçao;
 
 #### Aula 07
 
+Um pouco mais de Matematica
 
 #### Aula 08
+
+Finalizando com uma pitada de Física.
