@@ -13,6 +13,10 @@ seus passos em funções.
 
 ![](https://i.imgur.com/x7besae.png)
 
+<br>
+
+**E explique o porquê da sua sequência de passos!**
+
 
 ## Lógica Booleana
 
