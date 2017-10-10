@@ -46,7 +46,7 @@ Você pode inverter esses valores utilizando a única operação unária:
 
 E fazer operações lógicas utilizando esses 2 operadores:
 
-- ou: \/ ou || (no JavaScript)
+- ou: V ou || (no JavaScript)
 - e: /\ ou && (no JavaScript)
 
 
