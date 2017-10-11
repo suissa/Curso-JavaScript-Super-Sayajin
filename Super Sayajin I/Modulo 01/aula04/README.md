@@ -7,6 +7,19 @@ Após conhecermos a negação lógica vamos aprender os conectivos lógicos:
 
 ![](https://vicgrout.files.wordpress.com/2014/07/truthtables.gif)
 
+<br>
+
+> Sabe para que serve essa lógica no mais baixo nível da computação?
+
+**Para criar todos os circuitos lógicos existentes em um Computador!**
+
+É com as [portas lógicas](https://pt.wikipedia.org/wiki/Porta_l%C3%B3gica) que todo o processamento é feito dentro do seu processador.
+
+> "Portas lógicas ou circuitos lógicos, são dispositivos que operam um ou mais sinais lógicos de entrada para produzir uma e somente uma saída, dependente da função implementada no circuito. São geralmente usadas em circuitos eletrônicos, por causa das situações que os sinais deste tipo de circuito podem apresentar: presença de sinal, ou "1"; e ausência de sinal, ou "0". "
+
+fonte: [Porta lógica - Wikpedia](https://pt.wikipedia.org/wiki/Porta_l%C3%B3gica)
+
+![Portas lógicas](https://www.bpiropo.com.br/graficos/FPC_AC20051003a.jpg) 
 
 ## Desafio
 
