@@ -200,8 +200,13 @@ Operações com Conjuntos
 
 #### Aula 07
 
-Um pouco mais de Matematica
+Um pouco mais de Matemática, dessa vez com recusão.
+
+- fatorial
+- fibonacci
+- PA
+- PG
 
 #### Aula 08
 
-Finalizando com uma pitada de Física.
+Finalizando com uma pitada de Física, criando e compondo fórmulas.
