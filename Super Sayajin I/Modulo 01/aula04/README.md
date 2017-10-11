@@ -1,9 +1,11 @@
 # Aula 4 - Lógica Booleana - E OU
 
-Após conhecermos a negação lógica iremos aprender como utilizar os conectivos lógicos:
+Após conhecermos a negação lógica vamos aprender os conectivos lógicos:
 
 - E - AND - &&
 - OU - OR - ||
+
+![](https://vicgrout.files.wordpress.com/2014/07/truthtables.gif)
 
 ![Boolean Operations](https://i.imgur.com/0CLxetP.png)
 
